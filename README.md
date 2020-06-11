@@ -8,30 +8,49 @@
 
 ## :star2:概述
 
-本项目用于收集、整理和分享`经济学`专业相关的资料，包括但不限于书籍、期刊、学习资料、考研材料、读书笔记等。
+本项目用于收集、整理和分享 `经济学` 专业相关的资料，包括但不限于**书籍**、**期刊**、**学习资料**、**考研材料**、**读书笔记**等。
 
 由于本人能力和精力有限，无法囊括所有内容，目前搜集多少罗列多少，待后期资料比较丰富时会进行分门别类。
 
 如果你有什么需求，或者有什么好的资料想要分享，请联系作者（微信ID: **zuster**）
 
-说明：本项目中涉及的PDF版本的书籍均来自网络，如果设计版权和付费问题，随时联系删除。下载试读后请及时删除并购买正版书籍。
+_说明：本项目中涉及的PDF版本的书籍均来自网络，如果设计版权和付费问题，随时联系删除。下载试读后请及时删除并购买正版_。
 
 ## :books: 书籍
 
-《微观经济计量学——方法与应用》,(美)A·科林·卡梅伦,普拉温·K·特里维迪著,王忠玉译，上海财经大学出版社  
-			【链接:https://pan.baidu.com/s/1CzQyJmpciIGmyOTkYMFp8g  密码:rn7p】
+[《微观经济计量学——方法与应用》,(美)A·科林·卡梅伦,普拉温·K·特里维迪著,王忠玉译，上海财经大学出版社](https://pan.baidu.com/s/1CzQyJmpciIGmyOTkYMFp8g)		<b style="color:red;">密码:rn7p</b>
 
-《高级计量经济学及Stata应用》,陈强编著,高等教育出版社  
-			【链接:https://pan.baidu.com/s/1ZPMrdscmVGCFIg9bmp8b7w  密码:ljsw】
+[《高级计量经济学及Stata应用》,陈强编著,高等教育出版社](https://pan.baidu.com/s/1ZPMrdscmVGCFIg9bmp8b7w)		<b style="color:orange;">密码:ljsw</b> 
 
-《政治经济学》(第五版),逄锦聚、洪银兴等,高等教育出版社  
-			【链接:https://pan.baidu.com/s/1SofCsrEz9S1Gr5AGBYKn-g  密码:nkqs】
+[《政治经济学》(第五版),逄锦聚、洪银兴等,高等教育出版社](https://pan.baidu.com/s/1SofCsrEz9S1Gr5AGBYKn-g)		<b style="color:yellow;">密码:nkqs</b>   
 
-《政治经济学原理与实务》（第2版）,沈爱华、袁春晖编著,北京大学出版社  
-			【链接:https://pan.baidu.com/s/1JPNplrb20veyLtk4yDhR9g  密码:1ryx】
+[《政治经济学原理与实务》（第2版）,沈爱华、袁春晖编著,北京大学出版社](https://pan.baidu.com/s/1JPNplrb20veyLtk4yDhR9g)		<b style="color:green;">密码:1ryx</b>  
 
-《政治经济学教程》（第8版）宋涛,中国人民大学出版社  
-			【链接:https://pan.baidu.com/s/1INW5l86AP45YwfXW38QbTw  密码:zpuw】
+[《政治经济学教程》（第8版）宋涛,中国人民大学出版社](https://pan.baidu.com/s/1INW5l86AP45YwfXW38QbTw)		<b style="color:cyan;">密码:zpuw</b>  
+
+[《高级宏观经济学》,袁志刚、宋铮著,复旦大学出版社,2001](https://pan.baidu.com/s/1o-330_5zJbQ3cggEW1K42Q)		<b style="color:blue;">密码:l37w</b>  
+
+[《图解微观、宏观经济学》,华经编著,经济管理出版社,2012](https://pan.baidu.com/s/1_nhuOxQYL-uHVxmPBO025Q)		<b style="color:purple;">密码:s3vh</b> 
+
+[《西方经济学（宏观部分）》（第5版）,高鸿业主编,中国人民大学出版社,2010](https://pan.baidu.com/s/1VG1K1afQTH7pSBuv0uy7eA)		<b style="color:red;">密码:gp28</b>   
+
+[《管理经济学：应用、战略与策略》,麦圭根、莫耶、哈里斯编著,机械工业出版社,2009](https://pan.baidu.com/s/11i0PtXL6-RTM3nFTmFJ1DQ)		<b style="color:orange;">密码:z7jw</b>   
+
+[《金融经济学十讲》,史树中编著,上海人民出版社,2004](https://pan.baidu.com/s/1pC_eK56wnpCGxLTBEf4xGw)		<b style="color:yellow;">密码:lgqx</b>  
+
+
+
+## 习题解
+[《曼昆<宏观经济学>（第五版）课后习题详解》,上海恩波学校、翔高教育经济学研究中心编著,复旦大学出版社,2007](https://pan.baidu.com/s/1qmvg_99qzMN7uwaKu70_Xg)		<b style="color:red;">密码:pj8l</b>   
+
+## 相关软件
+
+### [Stata](./Soft/Stata)
+
+### [SPSS](./Soft/Spss)
+
+### [Matlab](./Soft/Matlab)
+
 
 ## :newspaper: 期刊
 
