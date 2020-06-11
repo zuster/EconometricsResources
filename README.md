@@ -45,11 +45,11 @@ _说明：本项目中涉及的PDF版本的书籍均来自网络，如果设计�
 
 ## 相关软件
 
-### [Stata](./Soft/Stata)
+### [Stata](Soft/Stata)
 
-### [SPSS](./Soft/Spss)
+### [SPSS](Soft/Spss)
 
-### [Matlab](./Soft/Matlab)
+### [Matlab](Soft/Matlab)
 
 
 ## :newspaper: 期刊
