@@ -1,11 +1,8 @@
-[TOC]
 ![](https://www.stata.com/includes/images/stata-logo-blue.svg)
 <center><h1>Stata资料</h1></center>
 ## 官方资料
--	[Stata官网](https://www.stata.com/)
--	[Stata官方文档](https://www.stata.com/features/documentation/)
-
-
+-	[Stata官网](https://www.stata.com/)  
+-	[Stata官方文档](https://www.stata.com/features/documentation/)  
 
 ## :books: 中文书籍
 
@@ -108,8 +105,8 @@
   - [Stata13 for Windows and Mac](https://pan.baidu.com/s/1EKj-d8XDCBKziu2XPJ09rA)	<b style="color:orange;">密码: 1fn8</b> 	  	   
 - Stata14
   - [Stata14 for Windows64/32, Mac and Linux](https://pan.baidu.com/s/1YnKYGkNfVxDCb4GluF0GZw)	<b style="color:orange;">密码: 7lqx</b> 	    
-	```
-	序列号 （Seri）10699393
+  ```
+  序列号 （Seri）10699393
   授权码 （Code）4gpp mkha 3yqe 3o9v g1m7 iu6j ou5j
   激活码 （Auth）tsrk
   ```
@@ -125,7 +122,5 @@
 
 
 ## 其他资料
-
-
 
 ⚠ _本项目中涉及的资料均来自网络，如果设计版权和付费问题，随时联系删除。下载试读后请及时删除并<b style="color:red;">购买正版</b>_。
