@@ -116,7 +116,7 @@
 
 - Stata15
   - [Stata15 IC for Windows](https://pan.baidu.com/s/1yYFQU0_fo20mYrg2N--hDA)	<b style="color:orange;">密码: 5iyx</b> 	  
-	-	[安装指南](./Stata15InstallGuide)
+	-	[安装指南](Stata15InstallGuide.md)
 
 ## Stata中国用户大会
 ### 2017年作品
