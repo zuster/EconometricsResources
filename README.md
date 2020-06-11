@@ -1,2 +1,118 @@
-# EconometricsResources
-经济学相关专业资料集
+[TOC]
+
+# EconometricsResources/经济学资料集
+
+<p align="center">
+	<b>科学</b>是对狂热和狂言最好的解毒剂。——亚当·斯密<br>
+  一个人必须经过一番刻苦<b>奋斗</b>，才会有所成就。——安徒生
+</p>
+
+## 🍎 概述
+
+本项目用于收集、整理和分享==经济学==专业相关的资料，包括但不限于书籍、期刊、学习资料、考研材料、读书笔记等。
+
+由于本人能力和精力有限，无法囊括所有内容，目前搜集多少罗列多少，待后期资料比较丰富时会进行分门别类。
+
+如果你有什么需求，或者有什么好的资料想要分享，请联系作者（微信ID: **zuster**）
+
+说明：本项目中涉及的PDF版本的书籍均来自网络，如果设计版权和付费问题，随时联系删除。下载试读后请及时删除并购买正版书籍。
+
+## 📚 书籍
+
+《微观经济计量学——方法与应用》,(美)A·科林·卡梅伦,普拉温·K·特里维迪著,王忠玉译，上海财经大学出版社  
+			【链接:https://pan.baidu.com/s/1CzQyJmpciIGmyOTkYMFp8g  密码:rn7p】
+
+《高级计量经济学及Stata应用》,陈强编著,高等教育出版社  
+			【链接:https://pan.baidu.com/s/1ZPMrdscmVGCFIg9bmp8b7w  密码:ljsw】
+
+《政治经济学》(第五版),逄锦聚、洪银兴等,高等教育出版社  
+			【链接:https://pan.baidu.com/s/1SofCsrEz9S1Gr5AGBYKn-g  密码:nkqs】
+
+《政治经济学原理与实务》（第2版）,沈爱华、袁春晖编著,北京大学出版社  
+			【链接:https://pan.baidu.com/s/1JPNplrb20veyLtk4yDhR9g  密码:1ryx】
+
+《政治经济学教程》（第8版）宋涛,中国人民大学出版社  
+			【链接:https://pan.baidu.com/s/1INW5l86AP45YwfXW38QbTw  密码:zpuw】
+
+## 📰 期刊
+
+- [经济研究 Economic Research Journal](http://www.cesgw.cn/cn/default.aspx)  
+- [经济学季刊](https://www.nsd.pku.edu.cn/cbw/jjxjk/index.htm)  
+- [中国工业经济](http://www.ciejournal.org/)
+- [南京大学|中国社会科学研究评价中心](https://cssrac.nju.edu.cn/)
+- [American Economic Review](https://www.aeaweb.org/journals/aer)
+- [The Review of Economics and Statistics](https://www.mitpressjournals.org/loi/rest)  
+- [The Quarterly Journal of Economics](https://academic.oup.com/qje)
+- [National Bureau of Economic Research](https://www.nber.org/)
+- [The Econometric Society](https://www.econometricsociety.org/)
+- [Journal of Political Economy](https://www.journals.uchicago.edu/toc/jpe/current)
+
+## 🐭 常用数据库
+
+1. [中国健康与营养调查（The China Health and Nutrition Survey，**CHNS**）](https://www.cpc.unc.edu/projects/china/data)
+2. [中国家庭追踪调查（China Family Panel Studies，**CFPS**）](https://opendata.pku.edu.cn/dataverse/CFPS)
+3. [中国家庭金融调查（China Household Finance Survey, **CHFS**）](http://chfs.swufe.edu.cn/)
+4. [中国家庭收入调查（Chinese Household Income Project Series, **CHIPS**）](http://www.icpsr.umich.edu/icpsrweb/ICPSR/series/00243) 
+5. [中国农村城市迁移调查（Rural Urban Migration in China, **RUMiC**）](http://idsc.iza.org/?page=27&id=58) 
+6. [中国健康与家庭生活调查（Chinese Health and Family Life Survey）]()
+7. [中国流动人口数据平台](http://www.chinaldrk.org.cn)
+8.  [中国健康与养老追踪调查（China Health and Retirement Longitudinal Study, **CHARLS**）](https://opendata.pku.edu.cn/dataverse/CHARLS)
+9. [北京大学开放研究数据平台（包括CFPS、CHARLS、CLKB等）](https://opendata.pku.edu.cn/)
+11.  [中国企业创新创业调查（Enterprise Survey for Innovation and Entrepreneurship in China，**ESIEC**）](https://opendata.pku.edu.cn/dataverse/esiec)
+11. [中国省级增长目标2000-2018, *下载密码：jgz9*](https://pan.baidu.com/s/1QyOrNphbfgFLjFzqAmmf_Q)
+12. [中国劳动力动态调查 （China Labor-force Dynamic Survey，**CLDS**）（2011、2012、2014）*下载密码：svrl*](https://pan.baidu.com/s/1QO8jxlXiBsleO3RcUN9Hjw)
+13. [WIOT（2000-2014）*下载密码：7gpa*](https://pan.baidu.com/s/1bOT6sjRNEfxQbixZdUJO0A)
+14. [Penn World Table, **PWT**](https://www.rug.nl/ggdc/productivity/pwt/)
+15. [美国劳工统计局·Current Population Survey (CPS)](https://www.bls.gov/cps/)
+16. [The Panel Study of Income Dynamics (PSID)](http://psidonline.isr.umich.edu/)
+17. [Medical Expenditure Panel Survey (MEPS)](http://meps.ahrq.gov/mepsweb/about_meps/survey_back.jsp)
+18. [German Socio Economic Panel (SOEP)](http://www.diw.de/en/diw_02.c.222857.en/documents.html)
+19. [中国官员数据（CGOD(Chinese Local Government Officials Database)）](http://sijichun.pro/www.govofficial.com)
+20. [TLC Trip Record Data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
+21. [Integrated Public Use Microdata Series（普查数据）](https://international.ipums.org/international/l)
+22. [欧洲竞争力研究网络（Competitiveness Research Network, CompNet）](http://www.comp-net.org/)
+23. [世界银行（World Bank）数据](http://data.worldbank.org/)
+24. [中国社会与经济发展统计数据库（年鉴数据库）](http://tongji.cnki.net/kns55/index.aspx)
+25. [美国Bureau of Economic Analysis (BEA)数据](http://www.bea.gov/index.htm)
+26. [CEIC宏观数据](https://www.ceicdata.com/zh-hans)
+27. [TuShare：财经数据](http://tushare.org/index.html)
+28. [智堡（Wisburg）提供的最新宏观数据列表](http://www.wisburg.com/data/)
+29. [世界投入产出表（World Input-Output Database）](http://www.wiod.org/new_site/home.htm)
+30. [全球价格与收入数据库（Global Prices and Incomes Database）](http://gpih.ucdavis.edu/Datafilelist.htm#)
+31. [中国历史地理（China Historical GIS）](http://www.fas.harvard.edu/~chgis/)
+32. [中国当代政治运动史数据库](http://ccrd.usc.cuhk.edu.hk/Default.aspx)
+33. [金融历史数据（Historical Financial Statistics）](http://www.centerforfinancialstability.org/hfs.php)
+34. [DIVA-GIS](http://www.diva-gis.org/data/)
+35. [城市扩张地图集（Atlas of Urban Expansion）](http://www.lincolninst.edu/subcenters/atlas-urban-expansion/Default.aspx)
+36. [A Global Sample of 120 Cities, 1990-2000](http://www.lincolninst.edu/subcenters/atlas-urban-expansion/global-sample-cities.aspx)
+37. [30 Cities in Historical Perspective, 1800-2000](http://www.lincolninst.edu/subcenters/atlas-urban-expansion/historical-sample-cities.aspx)
+38. [Urban, National and Regional Data](http://www.lincolninst.edu/subcenters/atlas-urban-expansion/urban-national-data-tables.aspx)
+39. [Geographic Information System (GIS) Data for Cities](http://www.lincolninst.edu/subcenters/atlas-urban-expansion/gis-data.aspx)
+40. [Google Earth Data for the Universe of 3,646 Cities](http://www.lincolninst.edu/subcenters/atlas-urban-expansion/google-earth-data.aspx)
+41. [NASA Reverb（美国航空航天局）](http://reverb.echo.nasa.gov/reverb/)
+42. [美国地质调查局（USGS，United States Geological Survey）](http://earthexplorer.usgs.gov/)
+43. [欧洲航天局（ESA，European Space Agency）](https://scihub.copernicus.eu/dhus/#/home)
+44. [NOAA CLASS（美国国家海洋和大气管理局）](http://www.class.ncdc.noaa.gov/saa/products/welcome;jsessionid=B3B84D7D221AF40B4FC13BBAEADB34C0)
+45. [Global Land Cover Facility 全球土地覆盖研究机构](http://landcover.org/)
+46. [中国大学生成长追踪调查（2009）基线调查 ](https://pan.baidu.com/s/1ClqSGs1Oik5UCTxFuQePLg)
+
+## 🏫 学习视频
+
+1. [厦门大学公开课：高级计量经济学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fcuvocw%2Fxiadagaojijiliangjingji.html)
+2. [Crash Course--《速成经济学》](http://open.163.com/newview/movie/free?pid=MBGQ1VONR&mid=MBGQ259M4)
+3. [可汗学院公开课：微观经济学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2FKhan%2Fmicroeconomics.html)
+4. [可汗学院公开课：宏观经济学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2FKhan%2Fmacroeconomics.html)
+5. [可汗学院公开课：货币银行学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2FKhan%2Fbankingandmoney.html)
+6. [十分钟看懂金融危机 次贷危机 房价](http://www.iqiyi.com/w_19rre7gwe9.html)  
+
+## 📖 考研材料
+
+
+
+## 📓 读书笔记
+
+
+
+## 💫 参考网站
+
+
