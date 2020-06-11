@@ -8,7 +8,7 @@
 
 ## 🍎 概述
 
-本项目用于收集、整理和分享经济学专业相关的资料，包括但不限于书籍、期刊、学习资料、考研材料、读书笔记等。
+本项目用于收集、整理和分享`经济学`专业相关的资料，包括但不限于书籍、期刊、学习资料、考研材料、读书笔记等。
 
 由于本人能力和精力有限，无法囊括所有内容，目前搜集多少罗列多少，待后期资料比较丰富时会进行分门别类。
 
@@ -46,7 +46,7 @@
 - [The Econometric Society](https://www.econometricsociety.org/)
 - [Journal of Political Economy](https://www.journals.uchicago.edu/toc/jpe/current)
 
-## 🐭 常用数据库
+## :cd: 常用数据库
 
 1. [中国健康与营养调查（The China Health and Nutrition Survey，**CHNS**）](https://www.cpc.unc.edu/projects/china/data)
 2. [中国家庭追踪调查（China Family Panel Studies，**CFPS**）](https://opendata.pku.edu.cn/dataverse/CFPS)
