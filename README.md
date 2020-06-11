@@ -6,7 +6,7 @@
   一个人必须经过一番刻苦<b>奋斗</b>，才会有所成就。——安徒生
 </p>
 
-## 🍎 概述
+## :star2:概述
 
 本项目用于收集、整理和分享`经济学`专业相关的资料，包括但不限于书籍、期刊、学习资料、考研材料、读书笔记等。
 
@@ -16,7 +16,7 @@
 
 说明：本项目中涉及的PDF版本的书籍均来自网络，如果设计版权和付费问题，随时联系删除。下载试读后请及时删除并购买正版书籍。
 
-## 📚 书籍
+## :books: 书籍
 
 《微观经济计量学——方法与应用》,(美)A·科林·卡梅伦,普拉温·K·特里维迪著,王忠玉译，上海财经大学出版社  
 			【链接:https://pan.baidu.com/s/1CzQyJmpciIGmyOTkYMFp8g  密码:rn7p】
@@ -33,7 +33,7 @@
 《政治经济学教程》（第8版）宋涛,中国人民大学出版社  
 			【链接:https://pan.baidu.com/s/1INW5l86AP45YwfXW38QbTw  密码:zpuw】
 
-## 📰 期刊
+## :newspaper: 期刊
 
 - [经济研究 Economic Research Journal](http://www.cesgw.cn/cn/default.aspx)  
 - [经济学季刊](https://www.nsd.pku.edu.cn/cbw/jjxjk/index.htm)  
@@ -95,7 +95,7 @@
 45. [Global Land Cover Facility 全球土地覆盖研究机构](http://landcover.org/)
 46. [中国大学生成长追踪调查（2009）基线调查 ](https://pan.baidu.com/s/1ClqSGs1Oik5UCTxFuQePLg)
 
-## 🏫 学习视频
+## :movie_camera: 学习视频
 
 1. [厦门大学公开课：高级计量经济学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fcuvocw%2Fxiadagaojijiliangjingji.html)
 2. [Crash Course--《速成经济学》](http://open.163.com/newview/movie/free?pid=MBGQ1VONR&mid=MBGQ259M4)
@@ -108,10 +108,10 @@
 
 
 
-## 📓 读书笔记
+## :notebook_with_decorative_cover: 读书笔记
 
 
 
-## 💫 参考网站
+## :link: 参考网站
 
 
