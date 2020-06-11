@@ -1,5 +1,5 @@
 ![](https://www.stata.com/includes/images/stata-logo-blue.svg)
-<center><h1>Stata15安装指南</h1></center>
+<h1  align="center">Stata15安装指南</h1>  
 1. 把计算机系统时间改到2016年随便哪一天。
 
 2. 安装完整版本 SetupStata15.exe， 安装中要选取IC版本，我的安装根目录是E盘Stata15文件夹，安装完成后此时桌面并没有快捷方式图标。

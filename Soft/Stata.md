@@ -1,11 +1,10 @@
 ![](https://www.stata.com/includes/images/stata-logo-blue.svg)
-<center><h1>Stata资料</h1></center>  
-
+<h1  align="center">EconometricsResources/Stata资料</h1>  
 ## 官方资料
 -	[Stata官网](https://www.stata.com/)  
 -	[Stata官方文档](https://www.stata.com/features/documentation/)  
 
-## :books: 中文书籍
+## 中文书籍
 
 - [《Stata统计分析与应用》,张鹏伟,李嫣怡著,电子工业出版社, 2011](https://pan.baidu.com/s/1kWDM6W3)  <b style="color:orange;">密码: vccc</b>  
 
@@ -73,7 +72,7 @@
 
 - 《Stata 软件基本操作和数据分析入门》,赵耐青 张文彤 <img src="https://img.shields.io/badge/Stata-7.0-E10098.svg" ></img>  
 	- [📚书籍](https://pan.baidu.com/s/1B6T6iOz8mWYqGqKuBU3UNQ) <b style="color:orange;">密码: r56w</b> 	 
-## :books: 英文书籍
+## 英文书籍
 - [《Stata time-series Reference Manual Release 11》,StataCorp LP,Stata Press,2009](https://pan.baidu.com/s/1smyHmLB )	<b style="color:green;">密码: 9g6m</b>  
 - [《Microeconometrics Using Stata》,AC Cameron，PK Trivedi,Stata Press,2009](https://pan.baidu.com/s/1dGtaboH)	<b style="color:green;">密码: 8yky</b>  
 - [《Getting Started with Stata》,WTO Stata](https://pan.baidu.com/s/1htBQLEW)	<b style="color:green;">密码: vvgl</b>  
@@ -91,7 +90,7 @@
 - [《Multilevel and Longitudinal Modeling Using Stata (3rd Edition)》,S Rabehesketh，A Skrondal](http://pan.baidu.com/s/1hrBD03q)	<b style="color:green;">密码: t8as</b>  
 - [《Discovering Structural Equation Modeling Using Stata》,A Acock](http://pan.baidu.com/s/1hsondUO)	<b style="color:green;">密码: abhm</b>  
 
-## :movie: 视频教程
+## 视频教程
 - [【连玉君stata初级+高级班】【 论文班视频+讲义+数据全套 】](https://pan.baidu.com/s/18npi5Ca7j26-T-TDwQA9_w) 	<b style="color:orange;">密码: unvu</b> 	    
 - [【丁香园】【Stata做meta】](https://pan.baidu.com/s/1ymHidLA8AszzWyo9BcK8rg)	<b style="color:orange;">密码: x2mb</b> 	    
 - [【南开大学数量经济研究所 王群勇】【Stata应用高级培训教程】【含PPT+数据】](https://pan.baidu.com/s/15N_bDBkrzNXBsnh5TJ9yIQ)	<b style="color:orange;">密码:ik5r </b> 	    
