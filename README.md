@@ -1,5 +1,5 @@
+<h1  align="center">EconometricsResources/经济学资料集</h1>
 <p align="center">
-	<h1>EconometricsResources/经济学资料集</h1><br>
 	<b>科学</b>是对狂热和狂言最好的解毒剂。——亚当·斯密<br>
   一个人必须经过一番刻苦<b>奋斗</b>，才会有所成就。——安徒生
 </p>
