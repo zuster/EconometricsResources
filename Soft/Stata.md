@@ -1,5 +1,6 @@
 ![](https://www.stata.com/includes/images/stata-logo-blue.svg)
-<center><h1>Stata资料</h1></center>
+<center><h1>Stata资料</h1></center>  
+
 ## 官方资料
 -	[Stata官网](https://www.stata.com/)  
 -	[Stata官方文档](https://www.stata.com/features/documentation/)  
