@@ -32,7 +32,7 @@
 
 [《金融经济学十讲》,史树中编著,上海人民出版社,2004](https://pan.baidu.com/s/1pC_eK56wnpCGxLTBEf4xGw)		<b style="color:yellow;">密码:lgqx</b>  
 
-
+[《供应管理（第8版）》,戴维·伯特、帕特卡维奇、平克顿等著，何明珂、卢丽雪、张屹然等译,中国人民大学出版社,2012.6](https://pan.baidu.com/s/1N-ArK83cXxUVWyrnNKwgbQ)		<b style="color:#a76a64;">密码:3s3v</b>  
 
 ## 习题解
 [《曼昆<宏观经济学>（第5版）课后习题详解》,上海恩波学校、翔高教育经济学研究中心编著,复旦大学出版社,2007](https://pan.baidu.com/s/1qmvg_99qzMN7uwaKu70_Xg)		<b style="color:red;">密码:pj8l</b>   
@@ -117,6 +117,7 @@
 4. [可汗学院公开课：宏观经济学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2FKhan%2Fmacroeconomics.html)
 5. [可汗学院公开课：货币银行学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2FKhan%2Fbankingandmoney.html)
 6. [十分钟看懂金融危机 次贷危机 房价](http://www.iqiyi.com/w_19rre7gwe9.html)  
+7. [【中国经济专题】徐高 -《宏观经济学二十五讲：中国视角》——北大国发院课程](https://www.bilibili.com/video/av70557114/)
 
 ## 📖 考研材料
 
