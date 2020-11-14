@@ -1,4 +1,4 @@
-<h1  align="center">EconometricsResources/经济学资料集</h1><p align="center"> <b>科学</b>是对狂热和狂言最好的解毒剂。——亚当·斯密<br> 一个人必须经过一番刻苦<b>奋斗</b>，才会有所成就。——安徒生</p>
+<h1  align="center">SupplyManagement/供应管理资料集</h1><p align="center"> 欢迎来到供应管理的绝妙世界！</p>
 
 :star2:概述
 -----------
@@ -129,10 +129,8 @@
 �� 考研材料
 -----------
 
-�� 随书课件
------------
-
-1.	[《西方经济学》马克思主义理论研究和建设工程重点教材-课件](Courseware/Courseware/《西方经济学》马克思主义理论研究和建设工程重点教材-课件/README.md):notebook_with_decorative_cover: 读书笔记 -----------------------------------------
+:notebook_with_decorative_cover: 读书笔记
+-----------------------------------------
 
 :link: 参考网站
 ---------------
