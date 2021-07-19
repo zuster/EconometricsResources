@@ -30,11 +30,15 @@
 
 [《金融经济学十讲》,史树中编著,上海人民出版社,2004](https://pan.baidu.com/s/1pC_eK56wnpCGxLTBEf4xGw) <b style="color:yellow;">密码:lgqx</b>
 
-[《经济学通识》,薛兆丰著,同心出版社,2009](https://pan.baidu.com/s/1SLcde0_xIxJ_zKaD8FmReA) <b style="color:red;">密码: xs9u</b>
+[《经济学通识》,薛兆丰著,同心出版社,2009](https://pan.baidu.com/s/1SLcde0_xIxJ_zKaD8FmReA) <b style="color:green;">密码: xs9u</b>
 
-[《计量经济学》（第四版）,李子奈、潘文卿著,高等教育出版社,2009](https://pan.baidu.com/s/10i2Dttmqox7XdNSDq00bUQ) <b style="color:red;">密码: 6e6g</b>
+[《计量经济学》（第四版）,李子奈、潘文卿著,高等教育出版社,2009](https://pan.baidu.com/s/10i2Dttmqox7XdNSDq00bUQ) <b style="color:cyan;">密码: 6e6g</b>
 
-[《供应管理（第8版）》,戴维·伯特、帕特卡维奇、平克顿等著，何明珂、卢丽雪、张屹然等译,中国人民大学出版社,2012.6](https://pan.baidu.com/s/1N-ArK83cXxUVWyrnNKwgbQ) <b style="color:#a76a64;">密码:3s3v</b>
+[《供应管理（第8版）》,戴维·伯特、帕特卡维奇、平克顿等著，何明珂、卢丽雪、张屹然等译,中国人民大学出版社,2012.6](https://pan.baidu.com/s/1N-ArK83cXxUVWyrnNKwgbQ) <b style="color:blue;">密码:3s3v</b>
+
+[《国际经济学 理论与政策（第八版） 上册 国际贸易部分》,保罗・R.克鲁格曼, 茅瑞斯・奥伯斯法尔德,中国人民大学出版社，2011](https://pan.baidu.com/s/1FVyAh0ccAfTf8WRHwxfeug) <b style="color:purple;">密码:0uj0</b>
+
+[《国际经济学 理论与政策（第八版） 下册 国际金融部分》,保罗・R.克鲁格曼, 茅瑞斯・奥伯斯法尔德,中国人民大学出版社，2011](https://pan.baidu.com/s/102OBtPSFUU2PashSTLUTQQ) <b style="color:red;">密码:sosr</b>
 
 习题解
 ------
