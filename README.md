@@ -40,6 +40,9 @@
 
 [《国际经济学 理论与政策（第八版） 下册 国际金融部分》,保罗・R.克鲁格曼, 茅瑞斯・奥伯斯法尔德,中国人民大学出版社，2011](https://pan.baidu.com/s/102OBtPSFUU2PashSTLUTQQ) <b style="color:red;">密码:sosr</b>
 
+[《国民财富的性质和原因的研究》（国富论）,亚当·斯密,商务印书馆](https://pan.baidu.com/s/1VxNmBJhEQsmhEwRhW_-SrQ) <b style="color:orange;">密码:68nd</b>
+
+
 习题解
 ------
 
