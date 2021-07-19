@@ -1,6 +1,6 @@
 <h1  align="center">EconometricsResources/经济学资料集</h1><p align="center"> <b>科学</b>是对狂热和狂言最好的解毒剂。——亚当·斯密<br> 一个人必须经过一番刻苦<b>奋斗</b>，才会有所成就。——安徒生</p>
 
-:star2:概述
+:star2: 概述
 -----------
 
 本项目用于收集、整理和分享 `经济学` 专业相关的资料，包括但不限于**书籍**、**期刊**、**学习资料**、**考研材料**、**读书笔记**等。  
@@ -43,13 +43,13 @@
 [《国民财富的性质和原因的研究》（国富论）,亚当·斯密,商务印书馆](https://pan.baidu.com/s/1VxNmBJhEQsmhEwRhW_-SrQ) <b style="color:orange;">密码:68nd</b>
 
 
-习题解
+:page_facing_up: 习题解
 ------
 
 [《曼昆<宏观经济学>（第5版）课后习题详解》,上海恩波学校、翔高教育经济学研究中心编著,复旦大学出版社,2007](https://pan.baidu.com/s/1qmvg_99qzMN7uwaKu70_Xg) <b style="color:red;">密码:pj8l</b>  
 [《威廉森<宏观经济学>（第5版）笔记和课后习题详解》](https://pan.baidu.com/s/1k8wTY4cMP6J9BPKKvE6log) <b style="color:red;">密码:hgsu</b>
 
-相关软件
+:floppy_disk: 相关软件
 --------
 
 ### [Stata](Soft/Stata.md)
@@ -133,10 +133,10 @@
 6.	[十分钟看懂金融危机 次贷危机 房价](http://www.iqiyi.com/w_19rre7gwe9.html)  
 7.	[【中国经济专题】徐高 -《宏观经济学二十五讲：中国视角》——北大国发院课程](https://www.bilibili.com/video/av70557114/)
 
-�� 考研材料
+**:school:** 考研材料
 -----------
 
-�� 随书课件
+:book: 随书课件
 -----------
 
 1.	[《西方经济学》马克思主义理论研究和建设工程重点教材-课件](Courseware/《西方经济学》马克思主义理论研究和建设工程重点教材-课件/README.md)
