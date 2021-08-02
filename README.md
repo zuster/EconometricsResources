@@ -10,6 +10,8 @@
 :books: 书籍
 ------------
 
+[《计量经济学导论——现代观点（第六版）》杰弗里·M.伍德里奇著,中国人民大学出版社,2018.8](https://pan.baidu.com/s/1rKjmA2oxwnjEXkBPBOYbGQ) <b style="color:red;">密码:p7in</b>
+
 [《微观经济计量学——方法与应用》,(美)A·科林·卡梅伦,普拉温·K·特里维迪著,王忠玉译，上海财经大学出版社](https://pan.baidu.com/s/1CzQyJmpciIGmyOTkYMFp8g) <b style="color:red;">密码:rn7p</b>
 
 [《高级计量经济学及Stata应用》,陈强编著,高等教育出版社](https://pan.baidu.com/s/1ZPMrdscmVGCFIg9bmp8b7w) <b style="color:orange;">密码:ljsw</b>
@@ -40,7 +42,10 @@
 
 [《国际经济学 理论与政策（第八版） 下册 国际金融部分》,保罗・R.克鲁格曼, 茅瑞斯・奥伯斯法尔德,中国人民大学出版社，2011](https://pan.baidu.com/s/102OBtPSFUU2PashSTLUTQQ) <b style="color:red;">密码:sosr</b>
 
-[《国民财富的性质和原因的研究》（国富论）,亚当·斯密,商务印书馆](https://pan.baidu.com/s/1VxNmBJhEQsmhEwRhW_-SrQ) <b style="color:orange;">密码:68nd</b>
+[《国民财富的性质和原因的研究》（国富论）,亚当·斯密,商务印书馆](https://pan.baidu.com/s/1VxNmBJhEQsmhEwRhW_-SrQ) <b style="color:orange;">密码:68nd</b>  
+
+[《政治经济学及赋税原理》,彼罗·斯拉法](https://pan.baidu.com/s/1s8q8HAr9Ni1Z-n-4IBotoQ) <b style="color:yellow;">密码:hon3</b>
+
 
 
 :page_facing_up: 习题解
@@ -143,6 +148,7 @@
 
 :notebook_with_decorative_cover: 读书笔记
 -----------------------------------------
+1. [曼昆《宏观经济学（第9版）》笔记和课后习题详解](https://pan.baidu.com/s/1hrrm-63NwfklLplF-TiwCQ) <b>提取码: ki6t</b>
 
 :link: 参考网站
 ---------------
