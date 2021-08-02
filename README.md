@@ -63,6 +63,8 @@
 
 ### [Matlab](Soft/Matlab.md)
 
+### [图论](Soft/GraphTheory.md)
+
 :newspaper: 期刊
 ----------------
 
