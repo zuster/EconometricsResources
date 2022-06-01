@@ -9,7 +9,7 @@
 
 :books: 书籍
 ------------
-🆕 [《大繁荣：大众创新如何带来国家繁荣》 [美]埃德蒙·费尔普斯](https://pan.baidu.com/s/1dmjB7e2D6deAgetMq3CEDQ) https://img.shields.io/badge/%E5%AF%86%E7%A0%81-dare-brightgreen.svg
+🆕 [《大繁荣：大众创新如何带来国家繁荣》 [美]埃德蒙·费尔普斯](https://pan.baidu.com/s/1dmjB7e2D6deAgetMq3CEDQ) ![](https://img.shields.io/badge/%E5%AF%86%E7%A0%81-dare-brightgreen.svg)
 
 🆕 [《高级计量经济学及Stata应用 (第二版)》,陈强编著,高等教育出版社](https://pan.baidu.com/s/17YE9lM6rUmUU8b-cfiDlcw) <b style="color:red;">密码:w7dn</b>
 
