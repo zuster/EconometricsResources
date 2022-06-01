@@ -9,6 +9,7 @@
 
 :books: 书籍
 ------------
+<b style="color:red;">新</b> [《高级计量经济学及Stata应用 (第二版)》,陈强编著,高等教育出版社](https://pan.baidu.com/s/17YE9lM6rUmUU8b-cfiDlcw) <b style="color:red;">密码:w7dn</b>
 
 [《计量经济学导论——现代观点（第六版）》杰弗里·M.伍德里奇著,中国人民大学出版社,2018.8](https://pan.baidu.com/s/1rKjmA2oxwnjEXkBPBOYbGQ) <b style="color:red;">密码:p7in</b>
 
