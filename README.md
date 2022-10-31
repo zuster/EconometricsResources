@@ -9,9 +9,11 @@
 
 :books: 书籍
 ------------
-🆕 [《经济学原理 - 宏观经济学分册（第8版）》美·曼昆著,梁小民译,北京大学出版社,2020.5](https://pan.baidu.com/s/1K9qRoU5ZpCUPjJmei1SrLA)<b style="color:red;">密码:vtv8</b>
+🆕 [《牛奶可乐经济学》美·罗伯特·弗兰克著,闾佳译,北京联合出版公司,2017.1](https://pan.baidu.com/s/1uLnNlQe9vAePd8Mu-YNelQ) <b style="color:red;">密码:eiq7</b>
 
-🆕 [《经济学原理 - 微观经济学分册（第8版）》美·曼昆著,梁小民译,北京大学出版社,2020.5](https://pan.baidu.com/s/1sw3iGa9BDL0QMjYVzTljPQ)<b style="color:red;">密码:u5j5</b>
+🆕 [《经济学原理 - 宏观经济学分册（第8版）》美·曼昆著,梁小民译,北京大学出版社,2020.5](https://pan.baidu.com/s/1K9qRoU5ZpCUPjJmei1SrLA) <b style="color:red;">密码:vtv8</b>
+
+🆕 [《经济学原理 - 微观经济学分册（第8版）》美·曼昆著,梁小民译,北京大学出版社,2020.5](https://pan.baidu.com/s/1sw3iGa9BDL0QMjYVzTljPQ) <b style="color:red;">密码:u5j5</b>
 
 [《大繁荣：大众创新如何带来国家繁荣》 [美]埃德蒙·费尔普斯](https://pan.baidu.com/s/1dmjB7e2D6deAgetMq3CEDQ) <b style="color:red;">密码:dare</b>
 
