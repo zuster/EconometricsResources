@@ -9,9 +9,13 @@
 
 :books: 书籍
 ------------
-🆕 [《大繁荣：大众创新如何带来国家繁荣》 [美]埃德蒙·费尔普斯](https://pan.baidu.com/s/1dmjB7e2D6deAgetMq3CEDQ) ![](https://img.shields.io/badge/%E5%AF%86%E7%A0%81-dare-brightgreen.svg)
+🆕 [《经济学原理 - 宏观经济学分册（第8版）》美·曼昆著,梁小民译,北京大学出版社,2020.5](https://pan.baidu.com/s/1K9qRoU5ZpCUPjJmei1SrLA)<b style="color:red;">密码:vtv8</b>
 
-🆕 [《高级计量经济学及Stata应用 (第二版)》,陈强编著,高等教育出版社](https://pan.baidu.com/s/17YE9lM6rUmUU8b-cfiDlcw) <b style="color:red;">密码:w7dn</b>
+🆕 [《经济学原理 - 微观经济学分册（第8版）》美·曼昆著,梁小民译,北京大学出版社,2020.5](https://pan.baidu.com/s/1sw3iGa9BDL0QMjYVzTljPQ)<b style="color:red;">密码:u5j5</b>
+
+[《大繁荣：大众创新如何带来国家繁荣》 [美]埃德蒙·费尔普斯](https://pan.baidu.com/s/1dmjB7e2D6deAgetMq3CEDQ) <b style="color:red;">密码:dare</b>
+
+[《高级计量经济学及Stata应用 (第二版)》,陈强编著,高等教育出版社](https://pan.baidu.com/s/17YE9lM6rUmUU8b-cfiDlcw) <b style="color:red;">密码:w7dn</b>
 
 [《计量经济学导论——现代观点（第六版）》杰弗里·M.伍德里奇著,中国人民大学出版社,2018.8](https://pan.baidu.com/s/1rKjmA2oxwnjEXkBPBOYbGQ) <b style="color:red;">密码:p7in</b>
 
