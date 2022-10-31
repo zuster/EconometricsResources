@@ -43,6 +43,8 @@
 
 [《经济学通识》,薛兆丰著,同心出版社,2009](https://pan.baidu.com/s/1SLcde0_xIxJ_zKaD8FmReA) <b style="color:green;">密码: xs9u</b>
 
+🆕 [《薛兆丰经济学讲义（第一版）》薛兆丰著,中信出版集团,2017.1](https://pan.baidu.com/s/1uLnNlQe9vAePd8Mu-YNelQ) <b style="color:red;">密码:eiq7</b>
+
 [《计量经济学》（第四版）,李子奈、潘文卿著,高等教育出版社,2009](https://pan.baidu.com/s/10i2Dttmqox7XdNSDq00bUQ) <b style="color:cyan;">密码: 6e6g</b>
 
 [《供应管理（第8版）》,戴维·伯特、帕特卡维奇、平克顿等著，何明珂、卢丽雪、张屹然等译,中国人民大学出版社,2012.6](https://pan.baidu.com/s/1N-ArK83cXxUVWyrnNKwgbQ) <b style="color:blue;">密码:3s3v</b>
@@ -55,7 +57,13 @@
 
 [《政治经济学及赋税原理》,彼罗·斯拉法](https://pan.baidu.com/s/1s8q8HAr9Ni1Z-n-4IBotoQ) <b style="color:yellow;">密码:hon3</b>
 
+🆕 [ 《健康经济学》[美]杰伊·巴塔查里亚等著.广西师范大学出版社.2019.12 ](https://pan.baidu.com/s/1Rb05I0l3HPO7Z1PdvS1j3A) <b>密码:ki7u</b>
 
+🆕 [ Principles of Economics.9E.N·GREGORY MANKIW [经济学原理（第9版）英文原版]](https://pan.baidu.com/s/1a88yMWyzQJFMoIK4LtYdDg) <b>密码:0cg4</b>
+
+🆕 [ The Economics of Money, Banking, and Financial Markets.13E.global edition.FREDERIC S. MISHKIN ](https://pan.baidu.com/s/1I-5yb2Ee3CV9ZLV6aRevaw) <b>密码:9h33</b>
+
+🆕 [ The Principles of Political Economy with some of their applications to social phiosophy.JOHN STUART MILL](https://pan.baidu.com/s/17K6bXkc4K4CeXQLNmyQIaw) <b>密码:k61g</b>
 
 :page_facing_up: 习题解
 ------
@@ -141,13 +149,13 @@
 :movie_camera: 学习视频
 -----------------------
 
-1.	[厦门大学公开课：高级计量经济学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fcuvocw%2Fxiadagaojijiliangjingji.html)
-2.	[Crash Course--《速成经济学》](http://open.163.com/newview/movie/free?pid=MBGQ1VONR&mid=MBGQ259M4)
-3.	[可汗学院公开课：微观经济学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2FKhan%2Fmicroeconomics.html)
-4.	[可汗学院公开课：宏观经济学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2FKhan%2Fmacroeconomics.html)
-5.	[可汗学院公开课：货币银行学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2FKhan%2Fbankingandmoney.html)
-6.	[十分钟看懂金融危机 次贷危机 房价](http://www.iqiyi.com/w_19rre7gwe9.html)  
-7.	[【中国经济专题】徐高 -《宏观经济学二十五讲：中国视角》——北大国发院课程](https://www.bilibili.com/video/av70557114/)
+1. [厦门大学公开课：高级计量经济学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fcuvocw%2Fxiadagaojijiliangjingji.html)
+2. [Crash Course--《速成经济学》](http://open.163.com/newview/movie/free?pid=MBGQ1VONR&mid=MBGQ259M4)
+3. [可汗学院公开课：微观经济学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2FKhan%2Fmicroeconomics.html)
+4. [可汗学院公开课：宏观经济学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2FKhan%2Fmacroeconomics.html)
+5. [可汗学院公开课：货币银行学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2FKhan%2Fbankingandmoney.html)
+6. [十分钟看懂金融危机 次贷危机 房价](http://www.iqiyi.com/w_19rre7gwe9.html)  
+7. [【中国经济专题】徐高 -《宏观经济学二十五讲：中国视角》——北大国发院课程](https://www.bilibili.com/video/av70557114/)
 
 **:school:** 考研材料
 -----------
@@ -155,7 +163,7 @@
 :book: 随书课件
 -----------
 
-1.	[《西方经济学》马克思主义理论研究和建设工程重点教材-课件](Courseware/《西方经济学》马克思主义理论研究和建设工程重点教材-课件/README.md)
+1. [《西方经济学》马克思主义理论研究和建设工程重点教材-课件](Courseware/《西方经济学》马克思主义理论研究和建设工程重点教材-课件/README.md)
 
 :notebook_with_decorative_cover: 读书笔记
 -----------------------------------------
