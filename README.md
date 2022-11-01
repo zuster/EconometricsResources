@@ -9,6 +9,10 @@
 
 :books: 书籍
 ------------
+🆕 [《西方经济学（第二版）上册》.《西方经济学》编写组.马克思主义理论研究和建设工程重点教材.高等教育出版社.2019.9](https://pan.baidu.com/s/1afvrkUPhzs2Qv07UXsC0xQ) <b style="color:red;">密码:ncfg</b>
+
+🆕 [《西方经济学（第二版）下册》.《西方经济学》编写组.马克思主义理论研究和建设工程重点教材.高等教育出版社.2019.9](https://pan.baidu.com/s/1bkF-rB6QdrMLIeRRhYF0zA) <b style="color:red;">密码:jc8v</b>
+
 🆕 [《牛奶可乐经济学》美·罗伯特·弗兰克著,闾佳译,北京联合出版公司,2017.1](https://pan.baidu.com/s/1uLnNlQe9vAePd8Mu-YNelQ) <b style="color:red;">密码:eiq7</b>
 
 🆕 [《经济学原理 - 宏观经济学分册（第8版）》美·曼昆著,梁小民译,北京大学出版社,2020.5](https://pan.baidu.com/s/1K9qRoU5ZpCUPjJmei1SrLA) <b style="color:red;">密码:vtv8</b>
