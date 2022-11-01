@@ -65,23 +65,6 @@
 
 🆕 [ The Principles of Political Economy with some of their applications to social phiosophy.JOHN STUART MILL](https://pan.baidu.com/s/17K6bXkc4K4CeXQLNmyQIaw) <b>密码:k61g</b>
 
-:page_facing_up: 习题解
-------
-
-[《曼昆<宏观经济学>（第5版）课后习题详解》,上海恩波学校、翔高教育经济学研究中心编著,复旦大学出版社,2007](https://pan.baidu.com/s/1qmvg_99qzMN7uwaKu70_Xg) <b style="color:red;">密码:pj8l</b>  
-[《威廉森<宏观经济学>（第5版）笔记和课后习题详解》](https://pan.baidu.com/s/1k8wTY4cMP6J9BPKKvE6log) <b style="color:red;">密码:hgsu</b>
-
-:floppy_disk: 相关软件
---------
-
-### [Stata](Soft/Stata.md)
-
-### [SPSS](Soft/Spss.md)
-
-### [Matlab](Soft/Matlab.md)
-
-### [图论](Soft/GraphTheory.md)
-
 :newspaper: 期刊
 ----------------
 
@@ -157,19 +140,29 @@
 6. [十分钟看懂金融危机 次贷危机 房价](http://www.iqiyi.com/w_19rre7gwe9.html)  
 7. [【中国经济专题】徐高 -《宏观经济学二十五讲：中国视角》——北大国发院课程](https://www.bilibili.com/video/av70557114/)
 
-**:school:** 考研材料
------------
+:page_facing_up: 习题解
+------
+
+[《曼昆<宏观经济学>（第5版）课后习题详解》,上海恩波学校、翔高教育经济学研究中心编著,复旦大学出版社,2007](https://pan.baidu.com/s/1qmvg_99qzMN7uwaKu70_Xg) <b style="color:red;">密码:pj8l</b>  
+[《威廉森<宏观经济学>（第5版）笔记和课后习题详解》](https://pan.baidu.com/s/1k8wTY4cMP6J9BPKKvE6log) <b style="color:red;">密码:hgsu</b>
+
+:floppy_disk: 相关软件
+--------
+
+### [Stata](Soft/Stata.md)
+
+### [SPSS](Soft/Spss.md)
+
+### [Matlab](Soft/Matlab.md)
+
+### [图论](Soft/GraphTheory.md)
 
 :book: 随书课件
 -----------
-
 1. [《西方经济学》马克思主义理论研究和建设工程重点教材-课件](Courseware/《西方经济学》马克思主义理论研究和建设工程重点教材-课件/README.md)
 
 :notebook_with_decorative_cover: 读书笔记
 -----------------------------------------
 1. [曼昆《宏观经济学（第9版）》笔记和课后习题详解](https://pan.baidu.com/s/1hrrm-63NwfklLplF-TiwCQ) <b>提取码: ki6t</b>
-
-:link: 参考网站
----------------
 
 ⚠ 说明：本项目中涉及的PDF版本的书籍均来自网络，如果设计版权和付费问题，随时联系删除。下载试读后请及时删除并购买正版。
