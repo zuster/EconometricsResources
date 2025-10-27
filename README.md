@@ -9,6 +9,8 @@
 
 :books: 书籍
 ------------
+🆕 [《管理与组织研究 必读的40个理论》美·杰弗里·A.迈尔斯著,徐世勇 李超平等译,北京大学出版社,2017.10](https://pan.baidu.com/s/1Q7O9rJKLFmyHEb-ks9eUvQ) <b>密码:8888</b>
+
 🆕 [《管理与组织研究 常用的60个理论》李超平 徐世勇 主编,北京大学出版社,2019.3](https://pan.baidu.com/s/19L_PIHT1JW0zNBtPLB5cAQ) <b>密码:1t9h</b>
 
 🆕 [《国际金融学（第四版）》杨长江 姜波克 编著,高等教育出版社,2014.6](https://pan.baidu.com/s/1OBDwUF1UN8DBHWYjssR7NQ) <b>密码:ifg0</b>
@@ -55,7 +57,7 @@
 
 [《经济学通识》,薛兆丰著,同心出版社,2009](https://pan.baidu.com/s/1SLcde0_xIxJ_zKaD8FmReA) <b>密码: xs9u</b>
 
-🆕 [《薛兆丰经济学讲义（第一版）》薛兆丰著,中信出版集团,2017.1](https://pan.baidu.com/s/1uLnNlQe9vAePd8Mu-YNelQ) <b>密码:eiq7</b>
+[《薛兆丰经济学讲义（第一版）》薛兆丰著,中信出版集团,2017.1](https://pan.baidu.com/s/1Jmyt5W513hvmSjjTcpz2dA) <b>密码:8888</b>
 
 [《计量经济学》（第四版）,李子奈、潘文卿著,高等教育出版社,2009](https://pan.baidu.com/s/10i2Dttmqox7XdNSDq00bUQ) <b>密码: 6e6g</b>
 
