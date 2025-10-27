@@ -9,7 +9,7 @@
 
 :books: 书籍
 ------------
-🆕 [《组织与管理研究的实证方法》陈晓萍 沈伟主编,北京大学出版社,2018.7](https://pan.baidu.com/s/199eyj96ctQifnyHForS3mQ) <b>密码:8888</b>
+🆕 [《组织与管理研究的实证方法(第三版)》陈晓萍 沈伟主编,北京大学出版社,2018.7](https://pan.baidu.com/s/199eyj96ctQifnyHForS3mQ) <b>密码:8888</b>
 
 🆕 [《管理与组织研究 必读的40个理论》美·杰弗里·A.迈尔斯著,徐世勇 李超平等译,北京大学出版社,2017.10](https://pan.baidu.com/s/1Q7O9rJKLFmyHEb-ks9eUvQ) <b>密码:8888</b>
 
