@@ -9,13 +9,13 @@
 
 :books: 书籍
 ------------
-🆕 [《组织与管理研究的实证方法(第三版)》陈晓萍 沈伟主编,北京大学出版社,2018.7](https://pan.baidu.com/s/199eyj96ctQifnyHForS3mQ) <b>密码:8888</b>
-
 🆕 [《管理与组织研究 必读的40个理论》美·杰弗里·A.迈尔斯著,徐世勇 李超平等译,北京大学出版社,2017.10](https://pan.baidu.com/s/1Q7O9rJKLFmyHEb-ks9eUvQ) <b>密码:8888</b>
 
 🆕 [《管理与组织研究 常用的60个理论》李超平 徐世勇 主编,北京大学出版社,2019.3](https://pan.baidu.com/s/19L_PIHT1JW0zNBtPLB5cAQ) <b>密码:1t9h</b>
 
 🆕 [《国际金融学（第四版）》杨长江 姜波克 编著,高等教育出版社,2014.6](https://pan.baidu.com/s/1OBDwUF1UN8DBHWYjssR7NQ) <b>密码:ifg0</b>
+
+🆕 [《组织与管理研究的实证方法(第三版)》陈晓萍 沈伟主编,北京大学出版社,2018.7](https://pan.baidu.com/s/199eyj96ctQifnyHForS3mQ) <b>密码:8888</b>
 
 🆕 [《组织与管理研究的实证方法（第二版）》陈晓萍 徐淑英 樊景立编,北京大学出版社,2012.6](https://pan.baidu.com/s/1jMdauXsFquDEwyXc37AwiA) <b>密码:1j1o</b>
 
@@ -57,29 +57,33 @@
 
 [《金融经济学十讲》,史树中编著,上海人民出版社,2004](https://pan.baidu.com/s/1pC_eK56wnpCGxLTBEf4xGw) <b>密码:lgqx</b>
 
-[《经济学通识》,薛兆丰著,同心出版社,2009](https://pan.baidu.com/s/1SLcde0_xIxJ_zKaD8FmReA) <b>密码: xs9u</b>
+[ 《经济学通识》,薛兆丰著,同心出版社,2009 ](https://pan.baidu.com/s/1SLcde0_xIxJ_zKaD8FmReA) <b>密码: xs9u</b>
 
-[《薛兆丰经济学讲义（第一版）》薛兆丰著,中信出版集团,2017.1](https://pan.baidu.com/s/1Jmyt5W513hvmSjjTcpz2dA) <b>密码:8888</b>
+[ 《薛兆丰经济学讲义（第一版）》薛兆丰著,中信出版集团,2017.1 ](https://pan.baidu.com/s/1Jmyt5W513hvmSjjTcpz2dA) <b>密码:8888</b>
 
-[《计量经济学》（第四版）,李子奈、潘文卿著,高等教育出版社,2009](https://pan.baidu.com/s/10i2Dttmqox7XdNSDq00bUQ) <b>密码: 6e6g</b>
+[ 《计量经济学》（第四版）,李子奈、潘文卿著,高等教育出版社,2009 ](https://pan.baidu.com/s/10i2Dttmqox7XdNSDq00bUQ) <b>密码: 6e6g</b>
 
-[《供应管理（第8版）》,戴维·伯特、帕特卡维奇、平克顿等著，何明珂、卢丽雪、张屹然等译,中国人民大学出版社,2012.6](https://pan.baidu.com/s/1N-ArK83cXxUVWyrnNKwgbQ) <b>密码:3s3v</b>
+[ 《供应管理（第8版）》,戴维·伯特、帕特卡维奇、平克顿等著，何明珂、卢丽雪、张屹然等译,中国人民大学出版社,2012.6 ](https://pan.baidu.com/s/1N-ArK83cXxUVWyrnNKwgbQ) <b>密码:3s3v</b>
 
-[《国际经济学 理论与政策（第八版） 上册 国际贸易部分》,保罗・R.克鲁格曼, 茅瑞斯・奥伯斯法尔德,中国人民大学出版社，2011](https://pan.baidu.com/s/1FVyAh0ccAfTf8WRHwxfeug) <b>密码:0uj0</b>
+[ 《国际经济学 理论与政策（第八版） 上册 国际贸易部分》,保罗・R.克鲁格曼, 茅瑞斯・奥伯斯法尔德,中国人民大学出版社，2011 ](https://pan.baidu.com/s/1FVyAh0ccAfTf8WRHwxfeug) <b>密码:0uj0</b>
 
-[《国际经济学 理论与政策（第八版） 下册 国际金融部分》,保罗・R.克鲁格曼, 茅瑞斯・奥伯斯法尔德,中国人民大学出版社，2011](https://pan.baidu.com/s/102OBtPSFUU2PashSTLUTQQ) <b>密码:sosr</b>
+[ 《国际经济学 理论与政策（第八版） 下册 国际金融部分》,保罗・R.克鲁格曼, 茅瑞斯・奥伯斯法尔德,中国人民大学出版社，2011 ](https://pan.baidu.com/s/102OBtPSFUU2PashSTLUTQQ) <b>密码:sosr</b>
 
-[《国民财富的性质和原因的研究》（国富论）,亚当·斯密,商务印书馆](https://pan.baidu.com/s/1VxNmBJhEQsmhEwRhW_-SrQ) <b>密码:68nd</b>  
+[ 《国民财富的性质和原因的研究》（国富论）,亚当·斯密,商务印书馆 ](https://pan.baidu.com/s/1VxNmBJhEQsmhEwRhW_-SrQ) <b>密码:68nd</b>  
 
-[《政治经济学及赋税原理》,彼罗·斯拉法](https://pan.baidu.com/s/1s8q8HAr9Ni1Z-n-4IBotoQ) <b>密码:hon3</b>
+[ 《政治经济学及赋税原理》,彼罗·斯拉法 ](https://pan.baidu.com/s/1s8q8HAr9Ni1Z-n-4IBotoQ) <b>密码:hon3</b>
 
-🆕 [ 《健康经济学》[美]杰伊·巴塔查里亚等著.广西师范大学出版社.2019.12 ](https://pan.baidu.com/s/1Rb05I0l3HPO7Z1PdvS1j3A) <b>密码:ki7u</b>
+[ 《健康经济学》[美]杰伊·巴塔查里亚等著.广西师范大学出版社.2019.12 ](https://pan.baidu.com/s/1Rb05I0l3HPO7Z1PdvS1j3A) <b>密码:ki7u</b>
 
-🆕 [ Principles of Economics.9E.N·GREGORY MANKIW [经济学原理（第9版）英文原版]](https://pan.baidu.com/s/1a88yMWyzQJFMoIK4LtYdDg) <b>密码:0cg4</b>
+[ 《从偶然到必然 华为研发投资与管理实践》,夏忠毅编著,清华大学出版社,2019](https://pan.baidu.com/s/1prN7Rr8r-c9-Wlbk1wL50g) <b>密码:8888</b>
 
-🆕 [ The Economics of Money, Banking, and Financial Markets.13E.global edition.FREDERIC S. MISHKIN ](https://pan.baidu.com/s/1I-5yb2Ee3CV9ZLV6aRevaw) <b>密码:9h33</b>
+[ 《卓有成效的管理者》,〔美〕彼得·德鲁克著,机械工业出版社,2009](https://pan.baidu.com/s/1JCRt1XpUYWRy3QQ46IQ_Sg) <b>密码:8888</b>
 
-🆕 [ The Principles of Political Economy with some of their applications to social phiosophy.JOHN STUART MILL](https://pan.baidu.com/s/17K6bXkc4K4CeXQLNmyQIaw) <b>密码:k61g</b>
+[ Principles of Economics.9E.N·GREGORY MANKIW [经济学原理（第9版）英文原版]](https://pan.baidu.com/s/1a88yMWyzQJFMoIK4LtYdDg) <b>密码:0cg4</b>
+
+[ The Economics of Money, Banking, and Financial Markets.13E.global edition.FREDERIC S. MISHKIN ](https://pan.baidu.com/s/1I-5yb2Ee3CV9ZLV6aRevaw) <b>密码:9h33</b>
+
+[ The Principles of Political Economy with some of their applications to social phiosophy.JOHN STUART MILL](https://pan.baidu.com/s/17K6bXkc4K4CeXQLNmyQIaw) <b>密码:k61g</b>
 
 :newspaper: 期刊
 ----------------
