@@ -27,35 +27,35 @@
 
 🆕 [《牛奶可乐经济学》美·罗伯特·弗兰克著,闾佳译,北京联合出版公司,2017.1](https://pan.baidu.com/s/1uLnNlQe9vAePd8Mu-YNelQ) <b>密码:eiq7</b>
 
-🆕 [《经济学原理 - 宏观经济学分册（第8版）》美·曼昆著,梁小民译,北京大学出版社,2020.5](https://pan.baidu.com/s/1K9qRoU5ZpCUPjJmei1SrLA) <b>密码:vtv8</b>
+🆕 [ 《经济学原理 - 宏观经济学分册（第8版）》美·曼昆著,梁小民译,北京大学出版社,2020.5 ](https://pan.baidu.com/s/1K9qRoU5ZpCUPjJmei1SrLA) <b>密码:vtv8</b>
 
-🆕 [《经济学原理 - 微观经济学分册（第8版）》美·曼昆著,梁小民译,北京大学出版社,2020.5](https://pan.baidu.com/s/1sw3iGa9BDL0QMjYVzTljPQ) <b>密码:u5j5</b>
+🆕 [ 《经济学原理 - 微观经济学分册（第8版）》美·曼昆著,梁小民译,北京大学出版社,2020.5 ](https://pan.baidu.com/s/1sw3iGa9BDL0QMjYVzTljPQ) <b>密码:u5j5</b>
 
-[《大繁荣：大众创新如何带来国家繁荣》 [美]埃德蒙·费尔普斯](https://pan.baidu.com/s/1dmjB7e2D6deAgetMq3CEDQ) <b>密码:dare</b>
+[ 《大繁荣：大众创新如何带来国家繁荣》 [美]埃德蒙·费尔普斯 ](https://pan.baidu.com/s/1dmjB7e2D6deAgetMq3CEDQ) <b>密码:dare</b>
 
-[《高级计量经济学及Stata应用 (第二版)》,陈强编著,高等教育出版社](https://pan.baidu.com/s/17YE9lM6rUmUU8b-cfiDlcw) <b>密码:w7dn</b>
+[ 《高级计量经济学及Stata应用 (第二版)》,陈强编著,高等教育出版社 ](https://pan.baidu.com/s/17YE9lM6rUmUU8b-cfiDlcw) <b>密码:w7dn</b>
 
-[《计量经济学导论——现代观点（第六版）》杰弗里·M.伍德里奇著,中国人民大学出版社,2018.8](https://pan.baidu.com/s/1rKjmA2oxwnjEXkBPBOYbGQ) <b>密码:p7in</b>
+[ 《计量经济学导论——现代观点（第六版）》杰弗里·M.伍德里奇著,中国人民大学出版社,2018.8 ](https://pan.baidu.com/s/1rKjmA2oxwnjEXkBPBOYbGQ) <b>密码:p7in</b>
 
-[《微观经济计量学——方法与应用》,(美)A·科林·卡梅伦,普拉温·K·特里维迪著,王忠玉译，上海财经大学出版社](https://pan.baidu.com/s/1CzQyJmpciIGmyOTkYMFp8g) <b>密码:rn7p</b>
+[ 《微观经济计量学——方法与应用》,(美)A·科林·卡梅伦,普拉温·K·特里维迪著,王忠玉译，上海财经大学出版社 ](https://pan.baidu.com/s/1CzQyJmpciIGmyOTkYMFp8g) <b>密码:rn7p</b>
 
-[《高级计量经济学及Stata应用》,陈强编著,高等教育出版社](https://pan.baidu.com/s/1ZPMrdscmVGCFIg9bmp8b7w) <b>密码:ljsw</b>
+[ 《高级计量经济学及Stata应用》,陈强编著,高等教育出版社 ](https://pan.baidu.com/s/1ZPMrdscmVGCFIg9bmp8b7w) <b>密码:ljsw</b>
 
-[《政治经济学》(第五版),逄锦聚、洪银兴等,高等教育出版社](https://pan.baidu.com/s/1SofCsrEz9S1Gr5AGBYKn-g) <b>密码:nkqs</b>
+[ 《政治经济学》(第五版),逄锦聚、洪银兴等,高等教育出版社 ](https://pan.baidu.com/s/1SofCsrEz9S1Gr5AGBYKn-g) <b>密码:nkqs</b>
 
-[《政治经济学原理与实务》（第2版）,沈爱华、袁春晖编著,北京大学出版社](https://pan.baidu.com/s/1JPNplrb20veyLtk4yDhR9g) <b>密码:1ryx</b>
+[ 《政治经济学原理与实务》（第2版）,沈爱华、袁春晖编著,北京大学出版社 ](https://pan.baidu.com/s/1JPNplrb20veyLtk4yDhR9g) <b>密码:1ryx</b>
 
-[《政治经济学教程》（第8版）宋涛,中国人民大学出版社](https://pan.baidu.com/s/1INW5l86AP45YwfXW38QbTw) <b>密码:zpuw</b>
+[ 《政治经济学教程》（第8版）宋涛,中国人民大学出版社 ](https://pan.baidu.com/s/1INW5l86AP45YwfXW38QbTw) <b>密码:zpuw</b>
 
-[《高级宏观经济学》,袁志刚、宋铮著,复旦大学出版社,2001](https://pan.baidu.com/s/1o-330_5zJbQ3cggEW1K42Q) <b>密码:l37w</b>
+[ 《高级宏观经济学》,袁志刚、宋铮著,复旦大学出版社,2001 ](https://pan.baidu.com/s/1o-330_5zJbQ3cggEW1K42Q) <b>密码:l37w</b>
 
-[《图解微观、宏观经济学》,华经编著,经济管理出版社,2012](https://pan.baidu.com/s/1_nhuOxQYL-uHVxmPBO025Q) <b>密码:s3vh</b>
+[ 《图解微观、宏观经济学》,华经编著,经济管理出版社,2012 ](https://pan.baidu.com/s/1_nhuOxQYL-uHVxmPBO025Q) <b>密码:s3vh</b>
 
-[《西方经济学（宏观部分）》（第5版）,高鸿业主编,中国人民大学出版社,2010](https://pan.baidu.com/s/1VG1K1afQTH7pSBuv0uy7eA) <b>密码:gp28</b>
+[ 《西方经济学（宏观部分）》（第5版）,高鸿业主编,中国人民大学出版社,2010 ](https://pan.baidu.com/s/1VG1K1afQTH7pSBuv0uy7eA) <b>密码:gp28</b>
 
-[《管理经济学：应用、战略与策略》,麦圭根、莫耶、哈里斯编著,机械工业出版社,2009](https://pan.baidu.com/s/11i0PtXL6-RTM3nFTmFJ1DQ) <b>密码:z7jw</b>
+[ 《管理经济学：应用、战略与策略》,麦圭根、莫耶、哈里斯编著,机械工业出版社,2009 ](https://pan.baidu.com/s/11i0PtXL6-RTM3nFTmFJ1DQ) <b>密码:z7jw</b>
 
-[《金融经济学十讲》,史树中编著,上海人民出版社,2004](https://pan.baidu.com/s/1pC_eK56wnpCGxLTBEf4xGw) <b>密码:lgqx</b>
+[ 《金融经济学十讲》,史树中编著,上海人民出版社,2004 ](https://pan.baidu.com/s/1pC_eK56wnpCGxLTBEf4xGw) <b>密码:lgqx</b>
 
 [ 《经济学通识》,薛兆丰著,同心出版社,2009 ](https://pan.baidu.com/s/1SLcde0_xIxJ_zKaD8FmReA) <b>密码: xs9u</b>
 
@@ -75,11 +75,11 @@
 
 [ 《健康经济学》[美]杰伊·巴塔查里亚等著.广西师范大学出版社.2019.12 ](https://pan.baidu.com/s/1Rb05I0l3HPO7Z1PdvS1j3A) <b>密码:ki7u</b>
 
-[ 《从偶然到必然 华为研发投资与管理实践》,夏忠毅编著,清华大学出版社,2019](https://pan.baidu.com/s/1prN7Rr8r-c9-Wlbk1wL50g) <b>密码:8888</b>
+🆕 [ 《从偶然到必然 华为研发投资与管理实践》,夏忠毅编著,清华大学出版社,2019](https://pan.baidu.com/s/1prN7Rr8r-c9-Wlbk1wL50g) <b>密码:8888</b>
 
-[ 《卓有成效的管理者》,〔美〕彼得·德鲁克著,机械工业出版社,2009](https://pan.baidu.com/s/1JCRt1XpUYWRy3QQ46IQ_Sg) <b>密码:8888</b>
+🆕 [ 《卓有成效的管理者》,〔美〕彼得·德鲁克著,机械工业出版社,2009](https://pan.baidu.com/s/1JCRt1XpUYWRy3QQ46IQ_Sg) <b>密码:8888</b>
 
-[ 《关键跃升：新任管理者成事的底层逻辑》,刘润著,机械工业出版社,2024年6月](https://pan.baidu.com/s/1j2QcWvSh87xJuuu0_ecC6Q) <b>密码:8888</b>
+🆕 [ 《关键跃升：新任管理者成事的底层逻辑》,刘润著,机械工业出版社,2024年6月](https://pan.baidu.com/s/1j2QcWvSh87xJuuu0_ecC6Q) <b>密码:8888</b>
 
 [ Principles of Economics.9E.N·GREGORY MANKIW [经济学原理（第9版）英文原版]](https://pan.baidu.com/s/1a88yMWyzQJFMoIK4LtYdDg) <b>密码:0cg4</b>
 
