@@ -91,12 +91,12 @@
 ----------------
 
 -   [《经济学报》 (China Journal of Economics)](http://cje.sem.tsinghua.edu.cn)
--	[经济研究 Economic Research Journal](http://www.cesgw.cn/cn/default.aspx)  
--	[经济学（季刊）](https://www.nsd.pku.edu.cn/cbw/jjxjk/index.htm)  
--	[中国工业经济](http://www.ciejournal.org/)
--   [世界经济](https://www.jweonline.cn/)
--   [财贸经济](http://cmjj.ajcass.org/)
--	[南京大学|中国社会科学研究评价中心](https://cssrac.nju.edu.cn/)
+-	[《经济研究》（Economic Research Journal）](https://erj.ajcass.com/#/index)  
+-	[《经济学》（季刊）](https://www.nsd.pku.edu.cn/cbw/jjxjk/index.htm)  
+-	[《中国工业经济》（China Industrial Economics）](https://ciejournal.ajcass.com/)
+-   [《世界经济》（The Journal of World Economy）》](https://www.jweonline.cn/)
+-   [《财贸经济》（Finance & Trade Economics）](https://cmjj.ajcass.com/)
+-	[南京大学 | 中国社会科学研究评价中心](https://cssrac.nju.edu.cn/)
 -   [《经济学人》(The Economist)](https://www.economist.com/)
 -	[American Economic Review](https://www.aeaweb.org/journals/aer)
 -	[The Review of Economics and Statistics](https://www.mitpressjournals.org/loi/rest)  
