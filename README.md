@@ -79,6 +79,8 @@
 
 [ 《卓有成效的管理者》,〔美〕彼得·德鲁克著,机械工业出版社,2009](https://pan.baidu.com/s/1JCRt1XpUYWRy3QQ46IQ_Sg) <b>密码:8888</b>
 
+[ 《关键跃升：新任管理者成事的底层逻辑》,刘润著,机械工业出版社,2024年6月](https://pan.baidu.com/s/1j2QcWvSh87xJuuu0_ecC6Q) <b>密码:8888</b>
+
 [ Principles of Economics.9E.N·GREGORY MANKIW [经济学原理（第9版）英文原版]](https://pan.baidu.com/s/1a88yMWyzQJFMoIK4LtYdDg) <b>密码:0cg4</b>
 
 [ The Economics of Money, Banking, and Financial Markets.13E.global edition.FREDERIC S. MISHKIN ](https://pan.baidu.com/s/1I-5yb2Ee3CV9ZLV6aRevaw) <b>密码:9h33</b>
