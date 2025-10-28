@@ -90,16 +90,22 @@
 :newspaper: 期刊
 ----------------
 
+-   [《经济学报》 (China Journal of Economics)](http://cje.sem.tsinghua.edu.cn)
 -	[经济研究 Economic Research Journal](http://www.cesgw.cn/cn/default.aspx)  
--	[经济学季刊](https://www.nsd.pku.edu.cn/cbw/jjxjk/index.htm)  
+-	[经济学（季刊）](https://www.nsd.pku.edu.cn/cbw/jjxjk/index.htm)  
 -	[中国工业经济](http://www.ciejournal.org/)
+-   [世界经济](https://www.jweonline.cn/)
+-   [财贸经济](http://cmjj.ajcass.org/)
 -	[南京大学|中国社会科学研究评价中心](https://cssrac.nju.edu.cn/)
+-   [《经济学人》(The Economist)](https://www.economist.com/)
 -	[American Economic Review](https://www.aeaweb.org/journals/aer)
 -	[The Review of Economics and Statistics](https://www.mitpressjournals.org/loi/rest)  
 -	[The Quarterly Journal of Economics](https://academic.oup.com/qje)
 -	[National Bureau of Economic Research](https://www.nber.org/)
 -	[The Econometric Society](https://www.econometricsociety.org/)
 -	[Journal of Political Economy](https://www.journals.uchicago.edu/toc/jpe/current)
+-   [China Economic Journal	](http://www.tandfonline.com/loi/rcej)
+-   [International Journal of Economics and Finance](https://ccsenet.org/journal/index.php/ijef)
 
 :cd: 常用数据库
 ---------------
