@@ -9,6 +9,8 @@
 
 :books: 书籍
 ------------
+🆕 [ 《置身事内 中国政府与经济发展》兰小欢著,上海人民出版社,2021 ](https://pan.baidu.com/s/1jpgDPO6WUGLrCseyXMi3Uw) <b>密码:8888</b>
+
 🆕 [ 《经济学》（第19版）[美]保罗·萨缪尔森 威廉·诺德豪斯著,中文本典藏版,商务印书馆,2013 ](https://pan.baidu.com/s/1U_5dmrVA_CWe9eyAcr4gig) <b>密码:8888</b>
 
 🆕 [《管理与组织研究 必读的40个理论》美·杰弗里·A.迈尔斯著,徐世勇 李超平等译,北京大学出版社,2017.10](https://pan.baidu.com/s/1Q7O9rJKLFmyHEb-ks9eUvQ) <b>密码:8888</b>
@@ -43,9 +45,9 @@
 
 [ 《高级计量经济学及Stata应用 (第二版)》,陈强编著,高等教育出版社 ](https://pan.baidu.com/s/17YE9lM6rUmUU8b-cfiDlcw) <b>密码:w7dn</b>
 
-[ 《计量经济学导论——现代观点（第六版）》杰弗里·M.伍德里奇著,中国人民大学出版社,2018.8 ](https://pan.baidu.com/s/1rKjmA2oxwnjEXkBPBOYbGQ) <b>密码:p7in</b>
+[ 《计量经济学导论 —— 现代观点（第六版）》杰弗里·M.伍德里奇著,中国人民大学出版社,2018.8 ](https://pan.baidu.com/s/1rKjmA2oxwnjEXkBPBOYbGQ) <b>密码:p7in</b>
 
-[ 《微观经济计量学——方法与应用》,(美)A·科林·卡梅伦,普拉温·K·特里维迪著,王忠玉译，上海财经大学出版社 ](https://pan.baidu.com/s/1CzQyJmpciIGmyOTkYMFp8g) <b>密码:rn7p</b>
+[ 《微观经济计量学 —— 方法与应用》,(美)A·科林·卡梅伦,普拉温·K·特里维迪著,王忠玉译，上海财经大学出版社 ](https://pan.baidu.com/s/1CzQyJmpciIGmyOTkYMFp8g) <b>密码:rn7p</b>
 
 [ 《高级计量经济学及Stata应用》,陈强编著,高等教育出版社 ](https://pan.baidu.com/s/1ZPMrdscmVGCFIg9bmp8b7w) <b>密码:ljsw</b>
 
@@ -62,6 +64,8 @@
 [ 《管理经济学：应用、战略与策略》,麦圭根、莫耶、哈里斯编著,机械工业出版社,2009 ](https://pan.baidu.com/s/11i0PtXL6-RTM3nFTmFJ1DQ) <b>密码:z7jw</b>
 
 [ 《金融经济学十讲》,史树中编著,上海人民出版社,2004 ](https://pan.baidu.com/s/1pC_eK56wnpCGxLTBEf4xGw) <b>密码:lgqx</b>
+
+🆕 [ 《经济学通识（第二版）》薛兆丰著,北京大学出版社,2015 ](https://pan.baidu.com/s/1INK294n7MQekhZ797CKkBA) <b>密码: 8888</b>
 
 [ 《经济学通识》,薛兆丰著,同心出版社,2009 ](https://pan.baidu.com/s/1SLcde0_xIxJ_zKaD8FmReA) <b>密码: xs9u</b>
 
