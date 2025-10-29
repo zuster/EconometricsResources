@@ -96,7 +96,6 @@
 [ The Principles of Political Economy with some of their applications to social phiosophy.JOHN STUART MILL](https://pan.baidu.com/s/17K6bXkc4K4CeXQLNmyQIaw) <b>密码:k61g</b>
 
 ## :newspaper: 期刊
-----------------
 
 -   [《经济学报》 (China Journal of Economics)](https://tsjj.cbpt.cnki.net)
 -	[《经济研究》（Economic Research Journal）](https://erj.ajcass.com/#/index)  
@@ -116,7 +115,6 @@
 -   [International Journal of Economics and Finance](https://ccsenet.org/journal/index.php/ijef)
 
 ## :cd: 常用数据库
----------------
 
 1.	[中国健康与营养调查（The China Health and Nutrition Survey，**CHNS**）](https://www.cpc.unc.edu/projects/china/data)
 2.	[中国家庭追踪调查（China Family Panel Studies，**CFPS**）](https://opendata.pku.edu.cn/dataverse/CFPS)
@@ -166,8 +164,6 @@
 46.	[中国大学生成长追踪调查（2009）基线调查 ](https://pan.baidu.com/s/1ClqSGs1Oik5UCTxFuQePLg)
 
 :movie_camera: 学习视频
------------------------
-
 1. [厦门大学公开课：高级计量经济学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fcuvocw%2Fxiadagaojijiliangjingji.html)
 2. [Crash Course--《速成经济学》](http://open.163.com/newview/movie/free?pid=MBGQ1VONR&mid=MBGQ259M4)
 3. [可汗学院公开课：微观经济学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2FKhan%2Fmicroeconomics.html)
@@ -177,8 +173,6 @@
 7. [【中国经济专题】徐高 -《宏观经济学二十五讲：中国视角》——北大国发院课程](https://www.bilibili.com/video/av70557114/)
 
 ## :floppy_disk: 相关软件
---------
-
 ### [Stata](Soft/Stata.md)
 #### 🌏 官方资料
 -	[Stata官网](https://www.stata.com/)  
@@ -320,7 +314,6 @@
 [下载地址](https://pan.baidu.com/s/13fBj6k-9DXyZjPM5NrDTrw)  提取码: 8slm
 
 ## :book: 其他资料
------------
 1. [《西方经济学》马克思主义理论研究和建设工程重点教材-课件](Courseware/《西方经济学》马克思主义理论研究和建设工程重点教材-课件/README.md)
 2. [曼昆《宏观经济学（第9版）》笔记和课后习题详解](https://pan.baidu.com/s/1hrrm-63NwfklLplF-TiwCQ) <b>提取码: ki6t</b>
 3. [《曼昆<宏观经济学>（第5版）课后习题详解》,上海恩波学校、翔高教育经济学研究中心编著,复旦大学出版社,2007](https://pan.baidu.com/s/1qmvg_99qzMN7uwaKu70_Xg) <b>密码:pj8l</b>  
