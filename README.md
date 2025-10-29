@@ -21,9 +21,15 @@
 
 🆕 [《管理学（第11版）》Stephen P. Robbins 等著,李原 孙健敏 等译,中国人民大学出版社,2012.6](https://pan.baidu.com/s/1i9heATe24pBrqj20mHkw8Q) <b>密码:pv7o</b>
 
-🆕 [《西方经济学（第二版）上册》.《西方经济学》编写组.马克思主义理论研究和建设工程重点教材.高等教育出版社.2019.9](https://pan.baidu.com/s/1afvrkUPhzs2Qv07UXsC0xQ) <b>密码:ncfg</b>
+🆕 [ 《西方经济学（宏观部分）》（第8版）,高鸿业主编,中国人民大学出版社,2021.8 ](https://pan.baidu.com/s/1nN1VUDeU8gsfvDqfdqEy1g) <b>密码:8888</b>
 
-🆕 [《西方经济学（第二版）下册》.《西方经济学》编写组.马克思主义理论研究和建设工程重点教材.高等教育出版社.2019.9](https://pan.baidu.com/s/1bkF-rB6QdrMLIeRRhYF0zA) <b>密码:jc8v</b>
+🆕 [ 《西方经济学（微观部分）》（第8版）,高鸿业主编,中国人民大学出版社,2021.8](https://pan.baidu.com/s/1F0ENz6ZGa95jukV4Kp-48Q) <b>密码:8888</b>
+
+[《西方经济学（第二版）上册》.《西方经济学》编写组.马克思主义理论研究和建设工程重点教材.高等教育出版社.2019.9](https://pan.baidu.com/s/1afvrkUPhzs2Qv07UXsC0xQ) <b>密码:ncfg</b>
+
+[《西方经济学（第二版）下册》.《西方经济学》编写组.马克思主义理论研究和建设工程重点教材.高等教育出版社.2019.9](https://pan.baidu.com/s/1bkF-rB6QdrMLIeRRhYF0zA) <b>密码:jc8v</b>
+
+[ 《西方经济学（宏观部分）》（第5版）,高鸿业主编,中国人民大学出版社,2010 ](https://pan.baidu.com/s/1VG1K1afQTH7pSBuv0uy7eA) <b>密码:gp28</b>
 
 🆕 [《牛奶可乐经济学》美·罗伯特·弗兰克著,闾佳译,北京联合出版公司,2017.1](https://pan.baidu.com/s/1uLnNlQe9vAePd8Mu-YNelQ) <b>密码:eiq7</b>
 
@@ -50,12 +56,6 @@
 [ 《高级宏观经济学》,袁志刚、宋铮著,复旦大学出版社,2001 ](https://pan.baidu.com/s/1o-330_5zJbQ3cggEW1K42Q) <b>密码:l37w</b>
 
 [ 《图解微观、宏观经济学》,华经编著,经济管理出版社,2012 ](https://pan.baidu.com/s/1_nhuOxQYL-uHVxmPBO025Q) <b>密码:s3vh</b>
-
-[ 《西方经济学（宏观部分）》（第8版）,高鸿业主编,中国人民大学出版社,2021.8 ](https://pan.baidu.com/s/1nN1VUDeU8gsfvDqfdqEy1g) <b>密码:8888</b>
-
-[ 《西方经济学（微观部分）》（第8版）,高鸿业主编,中国人民大学出版社,2021.8](https://pan.baidu.com/s/1F0ENz6ZGa95jukV4Kp-48Q) <b>密码:8888</b>
-
-[ 《西方经济学（宏观部分）》（第5版）,高鸿业主编,中国人民大学出版社,2010 ](https://pan.baidu.com/s/1VG1K1afQTH7pSBuv0uy7eA) <b>密码:gp28</b>
 
 [ 《管理经济学：应用、战略与策略》,麦圭根、莫耶、哈里斯编著,机械工业出版社,2009 ](https://pan.baidu.com/s/11i0PtXL6-RTM3nFTmFJ1DQ) <b>密码:z7jw</b>
 
