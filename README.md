@@ -1,13 +1,13 @@
 <h1  align="center">EconometricsResources/经济学资料集</h1><p align="center"> <b>科学</b>是对狂热和狂言最好的解毒剂。——亚当·斯密<br> 一个人必须经过一番刻苦<b>奋斗</b>，才会有所成就。——安徒生</p>
 
-:star2: 概述
+## :star2: 概述
 -----------
 
 本项目用于收集、整理和分享 `经济学` 专业相关的资料，包括但不限于**书籍**、**期刊**、**学习资料**、**考研材料**、**读书笔记**等。  
 由于本人能力和精力有限，无法囊括所有内容，目前搜集多少罗列多少，待后期资料比较丰富时会进行分门别类。  
 如果你有什么需求，或者有什么好的资料想要分享，请联系作者<zuster@sina.cn>.
 
-:books: 书籍
+## :books: 书籍
 ------------
 🆕 [ 《置身事内 中国政府与经济发展》兰小欢著,上海人民出版社,2021 ](https://pan.baidu.com/s/1jpgDPO6WUGLrCseyXMi3Uw) <b>密码:8888</b>
 
@@ -97,7 +97,7 @@
 
 [ The Principles of Political Economy with some of their applications to social phiosophy.JOHN STUART MILL](https://pan.baidu.com/s/17K6bXkc4K4CeXQLNmyQIaw) <b>密码:k61g</b>
 
-:newspaper: 期刊
+## :newspaper: 期刊
 ----------------
 
 -   [《经济学报》 (China Journal of Economics)](https://tsjj.cbpt.cnki.net)
@@ -117,7 +117,7 @@
 -   [China Economic Journal	](http://www.tandfonline.com/loi/rcej)
 -   [International Journal of Economics and Finance](https://ccsenet.org/journal/index.php/ijef)
 
-:cd: 常用数据库
+## :cd: 常用数据库
 ---------------
 
 1.	[中国健康与营养调查（The China Health and Nutrition Survey，**CHNS**）](https://www.cpc.unc.edu/projects/china/data)
@@ -178,21 +178,15 @@
 6. [十分钟看懂金融危机 次贷危机 房价](http://www.iqiyi.com/w_19rre7gwe9.html)  
 7. [【中国经济专题】徐高 -《宏观经济学二十五讲：中国视角》——北大国发院课程](https://www.bilibili.com/video/av70557114/)
 
-:page_facing_up: 习题解
-------
-
-[《曼昆<宏观经济学>（第5版）课后习题详解》,上海恩波学校、翔高教育经济学研究中心编著,复旦大学出版社,2007](https://pan.baidu.com/s/1qmvg_99qzMN7uwaKu70_Xg) <b>密码:pj8l</b>  
-[《威廉森<宏观经济学>（第5版）笔记和课后习题详解》](https://pan.baidu.com/s/1k8wTY4cMP6J9BPKKvE6log) <b>密码:hgsu</b>
-
-:floppy_disk: 相关软件
+## :floppy_disk: 相关软件
 --------
 
 ### [Stata](Soft/Stata.md)
-#### 官方资料
+#### 🌏 官方资料
 -	[Stata官网](https://www.stata.com/)  
 -	[Stata官方文档](https://www.stata.com/features/documentation/)  
 
-#### 中文书籍
+#### 📚 中文书籍
 
 - [《Stata统计分析与应用》,张鹏伟,李嫣怡著,电子工业出版社, 2011](https://pan.baidu.com/s/1kWDM6W3)  <b style="color:orange;">密码: vccc</b>  
 
@@ -260,7 +254,7 @@
 
 - 《Stata 软件基本操作和数据分析入门》,赵耐青 张文彤 <img src="https://img.shields.io/badge/Stata-7.0-E10098.svg" ></img>  
     - [📚书籍](https://pan.baidu.com/s/1B6T6iOz8mWYqGqKuBU3UNQ) <b style="color:orange;">密码: r56w</b> 	 
-#### 英文书籍
+#### 📚 英文书籍
 - [《Stata time-series Reference Manual Release 11》,StataCorp LP,Stata Press,2009](https://pan.baidu.com/s/1smyHmLB )	<b style="color:green;">密码: 9g6m</b>  
 - [《Microeconometrics Using Stata》,AC Cameron，PK Trivedi,Stata Press,2009](https://pan.baidu.com/s/1dGtaboH)	<b style="color:green;">密码: 8yky</b>  
 - [《Getting Started with Stata》,WTO Stata](https://pan.baidu.com/s/1htBQLEW)	<b style="color:green;">密码: vvgl</b>  
@@ -278,12 +272,12 @@
 - [《Multilevel and Longitudinal Modeling Using Stata (3rd Edition)》,S Rabehesketh，A Skrondal](http://pan.baidu.com/s/1hrBD03q)	<b style="color:green;">密码: t8as</b>  
 - [《Discovering Structural Equation Modeling Using Stata》,A Acock](http://pan.baidu.com/s/1hsondUO)	<b style="color:green;">密码: abhm</b>  
 
-#### 视频教程
+#### ▶️ 视频教程
 - [【连玉君stata初级+高级班】【 论文班视频+讲义+数据全套 】](https://pan.baidu.com/s/18npi5Ca7j26-T-TDwQA9_w) 	<b style="color:orange;">密码: unvu</b> 	    
 - [【丁香园】【Stata做meta】](https://pan.baidu.com/s/1ymHidLA8AszzWyo9BcK8rg)	<b style="color:orange;">密码: x2mb</b> 	    
 - [【南开大学数量经济研究所 王群勇】【Stata应用高级培训教程】【含PPT+数据】](https://pan.baidu.com/s/15N_bDBkrzNXBsnh5TJ9yIQ)	<b style="color:orange;">密码:ik5r </b> 	    
 
-#### 软件安装
+#### 💿 软件安装
 - [Stata11](https://pan.baidu.com/s/1E0m6Mq9VXn2Z1bq7BCLLzQ)	<b style="color:orange;">密码: e18q</b> 	  
 - Stata12
   
@@ -327,12 +321,11 @@
 #### 💿 相关软件
 [下载地址](https://pan.baidu.com/s/13fBj6k-9DXyZjPM5NrDTrw)  提取码: 8slm
 
-:book: 随书课件
+## :book: 其他资料
 -----------
 1. [《西方经济学》马克思主义理论研究和建设工程重点教材-课件](Courseware/《西方经济学》马克思主义理论研究和建设工程重点教材-课件/README.md)
-
-:notebook_with_decorative_cover: 读书笔记
------------------------------------------
-1. [曼昆《宏观经济学（第9版）》笔记和课后习题详解](https://pan.baidu.com/s/1hrrm-63NwfklLplF-TiwCQ) <b>提取码: ki6t</b>
+2. [曼昆《宏观经济学（第9版）》笔记和课后习题详解](https://pan.baidu.com/s/1hrrm-63NwfklLplF-TiwCQ) <b>提取码: ki6t</b>
+3. [《曼昆<宏观经济学>（第5版）课后习题详解》,上海恩波学校、翔高教育经济学研究中心编著,复旦大学出版社,2007](https://pan.baidu.com/s/1qmvg_99qzMN7uwaKu70_Xg) <b>密码:pj8l</b>  
+4. [《威廉森<宏观经济学>（第5版）笔记和课后习题详解》](https://pan.baidu.com/s/1k8wTY4cMP6J9BPKKvE6log) <b>密码:hgsu</b>
 
 ⚠ 说明：本项目中涉及的PDF版本的书籍均来自网络，如果设计版权和付费问题，随时联系删除。下载试读后请及时删除并购买正版。
