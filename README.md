@@ -9,6 +9,8 @@
 
 :books: 书籍
 ------------
+🆕 [ 《经济学》（第19版）[美]保罗·萨缪尔森 威廉·诺德豪斯著,中文本典藏版,商务印书馆,2013 ](https://pan.baidu.com/s/1U_5dmrVA_CWe9eyAcr4gig) <b>密码:8888</b>
+
 🆕 [《管理与组织研究 必读的40个理论》美·杰弗里·A.迈尔斯著,徐世勇 李超平等译,北京大学出版社,2017.10](https://pan.baidu.com/s/1Q7O9rJKLFmyHEb-ks9eUvQ) <b>密码:8888</b>
 
 🆕 [《管理与组织研究 常用的60个理论》李超平 徐世勇 主编,北京大学出版社,2019.3](https://pan.baidu.com/s/19L_PIHT1JW0zNBtPLB5cAQ) <b>密码:1t9h</b>
