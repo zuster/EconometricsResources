@@ -167,7 +167,7 @@
 46.	[中国大学生成长追踪调查（2009）基线调查 ](https://pan.baidu.com/s/1ClqSGs1Oik5UCTxFuQePLg)
 
 ## 💻 相关软件
-### [Stata](Soft/Stata.md)
+### 📊 [Stata](Soft/Stata.md)
 #### 🌏 官方资料
 -	[Stata官网](https://www.stata.com/)  
 -	[Stata官方文档](https://www.stata.com/features/documentation/)  
@@ -283,7 +283,7 @@
   - [Stata15 IC for Windows](https://pan.baidu.com/s/1yYFQU0_fo20mYrg2N--hDA)	<b style="color:orange;">密码: 5iyx</b> 	  
     -	[安装指南](Stata15InstallGuide.md)
 
-### [SPSS](Soft/Spss.md)
+### 🧮 [SPSS](Soft/Spss.md)
 #### 💿 软件安装
 - [SPSS20.0 for Windows](http://pan.baidu.com/s/1miwSHGs)	<b style="color:orange;">密码: 7n02</b>   
 ```
@@ -298,7 +298,7 @@
 ```
 - SPSS For Mac: 在 http://xclient.info/ 网站搜索 SPSS，安装和破解方法参考网站提示。
 
-### [图论](Soft/GraphTheory.md)
+### 🛟 [图论](Soft/GraphTheory.md)
 #### 📚 学习书籍
 [《图论算法及其MATLAB实现》王海英等著,北京航空航天大学出版社,2010.2](https://pan.baidu.com/s/1j3wigh_K9ZSlKLtckZyOjA) <b>密码:shpv</b>
     -   [随书代码](./GraphTheory/图论算法及其MATLAB实现)
