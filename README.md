@@ -1,7 +1,6 @@
 <h1  align="center">EconometricsResources/经济学资料集</h1>
 <p align="center"> <b>科学</b>是对狂热和狂言最好的解毒剂。——亚当·斯密<br> 一个人必须经过一番刻苦<b>奋斗</b>，才会有所成就。——安徒生</p>
-
-<img src="https://img.shields.io/badge/说明：本项目中涉及的PDF版本的书籍均来自网络，如果设计版权和付费问题，随时联系删除。下载试读后请及时删除并购买正版-FF0000.svg" ></img>  
+<p align="center"><img src="https://img.shields.io/badge/说明：本项目中涉及的PDF版本的书籍均来自网络，如果设计版权和付费问题，随时联系删除。下载试读后请及时删除并购买正版-FF0000.svg" ></img></p> 
 
 ## :star2: 概述
 
