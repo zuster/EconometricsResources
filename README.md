@@ -163,15 +163,6 @@
 45.	[Global Land Cover Facility 全球土地覆盖研究机构](http://landcover.org/)
 46.	[中国大学生成长追踪调查（2009）基线调查 ](https://pan.baidu.com/s/1ClqSGs1Oik5UCTxFuQePLg)
 
-:movie_camera: 学习视频
-1. [厦门大学公开课：高级计量经济学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fcuvocw%2Fxiadagaojijiliangjingji.html)
-2. [Crash Course--《速成经济学》](http://open.163.com/newview/movie/free?pid=MBGQ1VONR&mid=MBGQ259M4)
-3. [可汗学院公开课：微观经济学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2FKhan%2Fmicroeconomics.html)
-4. [可汗学院公开课：宏观经济学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2FKhan%2Fmacroeconomics.html)
-5. [可汗学院公开课：货币银行学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2FKhan%2Fbankingandmoney.html)
-6. [十分钟看懂金融危机 次贷危机 房价](http://www.iqiyi.com/w_19rre7gwe9.html)  
-7. [【中国经济专题】徐高 -《宏观经济学二十五讲：中国视角》——北大国发院课程](https://www.bilibili.com/video/av70557114/)
-
 ## :floppy_disk: 相关软件
 ### [Stata](Soft/Stata.md)
 #### 🌏 官方资料
@@ -305,13 +296,21 @@
 - SPSS For Mac: 在 http://xclient.info/ 网站搜索 SPSS，安装和破解方法参考网站提示。
 
 ### [图论](Soft/GraphTheory.md)
-
 #### 📚 学习书籍
 [《图论算法及其MATLAB实现》王海英等著,北京航空航天大学出版社,2010.2](https://pan.baidu.com/s/1j3wigh_K9ZSlKLtckZyOjA) <b>密码:shpv</b>
     -   [随书代码](./GraphTheory/图论算法及其MATLAB实现)
 [《图论在经济学中的应用（Basic Graph Theory with Applications to Economic）》](https://pan.baidu.com/s/17_P-2VxZgtbxft8v_9wDVQ) <b>密码:r8cg</b>
 #### 💿 相关软件
 [下载地址](https://pan.baidu.com/s/13fBj6k-9DXyZjPM5NrDTrw)  提取码: 8slm
+
+## :movie_camera: 学习视频
+1. [厦门大学公开课：高级计量经济学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fcuvocw%2Fxiadagaojijiliangjingji.html)
+2. [Crash Course--《速成经济学》](http://open.163.com/newview/movie/free?pid=MBGQ1VONR&mid=MBGQ259M4)
+3. [可汗学院公开课：微观经济学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2FKhan%2Fmicroeconomics.html)
+4. [可汗学院公开课：宏观经济学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2FKhan%2Fmacroeconomics.html)
+5. [可汗学院公开课：货币银行学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2FKhan%2Fbankingandmoney.html)
+6. [十分钟看懂金融危机 次贷危机 房价](http://www.iqiyi.com/w_19rre7gwe9.html)  
+7. [【中国经济专题】徐高 -《宏观经济学二十五讲：中国视角》——北大国发院课程](https://www.bilibili.com/video/av70557114/)
 
 ## :book: 其他资料
 1. [《西方经济学》马克思主义理论研究和建设工程重点教材-课件](Courseware/《西方经济学》马克思主义理论研究和建设工程重点教材-课件/README.md)
