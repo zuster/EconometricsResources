@@ -326,4 +326,4 @@
 - 🚨 下载试读后请及时删除并购买正版 🚨 
 
 ## ⭐ Project Stats
-[![Star History Chart](https://api.star-history.com/svg?repos=zuster/EconometricsResources&type=Date)](https://star-history.com/#zuster/EconometricsResources&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=zuster/EconometricsResources&type=date&legend=bottom-right)](https://www.star-history.com/#zuster/EconometricsResources&type=date&legend=bottom-right)
