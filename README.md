@@ -51,6 +51,10 @@
 
 [ 《图解微观、宏观经济学》,华经编著,经济管理出版社,2012 ](https://pan.baidu.com/s/1_nhuOxQYL-uHVxmPBO025Q) <b>密码:s3vh</b>
 
+[ 《西方经济学（宏观部分）》（第8版）,高鸿业主编,中国人民大学出版社,2021.8 ](https://pan.baidu.com/s/1nN1VUDeU8gsfvDqfdqEy1g) <b>密码:8888</b>
+
+[ 《西方经济学（微观部分）》（第8版）,高鸿业主编,中国人民大学出版社,2021.8](https://pan.baidu.com/s/1F0ENz6ZGa95jukV4Kp-48Q) <b>密码:8888</b>
+
 [ 《西方经济学（宏观部分）》（第5版）,高鸿业主编,中国人民大学出版社,2010 ](https://pan.baidu.com/s/1VG1K1afQTH7pSBuv0uy7eA) <b>密码:gp28</b>
 
 [ 《管理经济学：应用、战略与策略》,麦圭根、莫耶、哈里斯编著,机械工业出版社,2009 ](https://pan.baidu.com/s/11i0PtXL6-RTM3nFTmFJ1DQ) <b>密码:z7jw</b>
