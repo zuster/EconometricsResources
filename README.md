@@ -326,4 +326,4 @@
 - 🚨 下载试读后请及时删除并购买正版 🚨 
 
 ## ⭐ Project Stats
-![GitHub Stars](https://img.shields.io/github/stars/zuster/EconometricsResources?style=social&logo=star&color=gold)
+[![Star History Chart](https://api.star-history.com/svg?repos=zuster/EconometricsResources&type=Date)](https://star-history.com/#zuster/EconometricsResources&Date)
