@@ -100,7 +100,7 @@
 :newspaper: 期刊
 ----------------
 
--   [《经济学报》 (China Journal of Economics)](http://cje.sem.tsinghua.edu.cn)
+-   [《经济学报》 (China Journal of Economics)](https://tsjj.cbpt.cnki.net)
 -	[《经济研究》（Economic Research Journal）](https://erj.ajcass.com/#/index)  
 -	[《经济学》（季刊）](https://www.nsd.pku.edu.cn/cbw/jjxjk/index.htm)  
 -	[《中国工业经济》（China Industrial Economics）](https://ciejournal.ajcass.com/)
