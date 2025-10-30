@@ -172,7 +172,7 @@
 -	[Stata官方文档](https://www.stata.com/features/documentation/)  
 
 #### 📖 中文书籍
-- [《Stata统计分析从入门到精通》,杨维忠 张甜编著,清华大学出版社,2022](https://pan.baidu.com/s/15pG4l7e_P3UduIDAVhR1qg?pwd=8888)
+- [《Stata统计分析从入门到精通》,杨维忠 张甜编著,清华大学出版社,2022](https://pan.baidu.com/s/15pG4l7e_P3UduIDAVhR1qg)<b>密码:8888</b><img src="https://img.shields.io/badge/Stata-16.0-E10098.svg" ></img>  
 - [《Stata统计分析与行业应用案例详解（第2版）》,张甜 李爽编著,清华大学出版社,2017](https://pan.baidu.com/s/1taQGSSLXpgG_4YhZOydryA)<b>密码:8888</b><img src="https://img.shields.io/badge/Stata-12.0~14.0-E10098.svg" ></img>  
 - [《Stata统计分析与应用》,张鹏伟,李嫣怡著,电子工业出版社, 2011](https://pan.baidu.com/s/1kWDM6W3)  <b>密码: vccc</b>  
 - [《Stata统计分析与行业应用案例详解》,张甜编著,清华大学出版社,2014](https://pan.baidu.com/s/1dgoVBS) <b>密码: 4gkr</b>  
