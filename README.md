@@ -173,6 +173,7 @@
 
 #### 📖 中文书籍
 
+- [《Stata统计分析与行业应用案例详解（第2版）》（试用范围为Stata12.0到14.0）,张甜 李爽编著,清华大学出版社,2017](https://pan.baidu.com/s/1taQGSSLXpgG_4YhZOydryA)<b>密码:8888</b>
 - [《Stata统计分析与应用》,张鹏伟,李嫣怡著,电子工业出版社, 2011](https://pan.baidu.com/s/1kWDM6W3)  <b style="color:orange;">密码: vccc</b>  
 - [《Stata统计分析与行业应用案例详解》,张甜编著,清华大学出版社,2014](https://pan.baidu.com/s/1dgoVBS) <b style="color:orange;">密码: 4gkr</b>  
     - [💿光盘（内含Stata教学视频&示例数据）](https://pan.baidu.com/s/1c3vdWnm) <b style="color:orange;">密码: cuwn</b>  
