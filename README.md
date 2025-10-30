@@ -173,36 +173,36 @@
 
 #### 📖 中文书籍
 - [《Stata统计分析从入门到精通》,杨维忠 张甜编著,清华大学出版社,2022](https://pan.baidu.com/s/15pG4l7e_P3UduIDAVhR1qg)<b>密码:8888</b><img src="https://img.shields.io/badge/Stata-16.0-E10098.svg" ></img>  
-- [《Stata统计分析与行业应用案例详解（第2版）》,张甜 李爽编著,清华大学出版社,2017](https://pan.baidu.com/s/1taQGSSLXpgG_4YhZOydryA)<b>密码:8888</b><img src="https://img.shields.io/badge/Stata-12.0~14.0-E10098.svg" ></img>  
-- [《Stata统计分析与应用》,张鹏伟,李嫣怡著,电子工业出版社, 2011](https://pan.baidu.com/s/1kWDM6W3)  <b>密码: vccc</b>  
-- [《Stata统计分析与行业应用案例详解》,张甜编著,清华大学出版社,2014](https://pan.baidu.com/s/1dgoVBS) <b>密码: 4gkr</b>  
-    - [💿光盘（内含Stata教学视频&示例数据）](https://pan.baidu.com/s/1c3vdWnm) <b>密码: cuwn</b>  
-- [《Stata统计分析与应用》,周广肃、梁荣、田金秀等编著,机械工业出版社,2015](https://pan.baidu.com/s/1oAqWdtC) <b>密码: 483g</b>  
-    - [💿光盘](https://pan.baidu.com/s/1eloSQM) <b>密码: ascc</b>  
-- 《Stata统计分析与应用.修订版》,胡博编著,电子工业出版社,2013  
-    - [💿光盘](https://pan.baidu.com/s/1i6YPwrj) <b>密码: diz1</b>  
-- [《社会统计分析与数据处理技术:STATA软件的应用》,杨菊华编著、梁荣、田金秀等编著,中国人民大学出版社,2008](https://pan.baidu.com/s/1sm8QBJv) <b>密码: k94m</b> <img src="https://img.shields.io/badge/Stata-9.0-E10098.svg" ></img>   
-    - [💿光盘(含1989-2006年CHNS数据&复习思考题数据及答案程序&正文数据及数据处理程序)](https://pan.baidu.com/s/1smVlqUh) <b>密码: 3zmk</b>
-- [《Stata统计分析与应用.第3版》,马慧慧主编,电子工业出版社,2016](https://pan.baidu.com/s/1w7Y51-UR4XuD8jxXuYe10w)<b>密码: 8888</b> 
-    - [💿光盘(含Stata教学视频&数据和结果文件)](https://pan.baidu.com/s/1mj2plMC) <b>密码: 2x30</b>    
-- [《应用Stata做统计分析》,劳伦斯·汉密尔顿,重庆大学出版社,2008](https://pan.baidu.com/s/1qZJccG0) <b>密码:pole </b> <img src="https://img.shields.io/badge/Stata-8.0-E10098.svg" ></img>  
-    - [💿数据](https://pan.baidu.com/s/1pMYDhZ9) <b>密码:kyt1 </b>  
-- [《高级计量经济学及Stata应用》,陈强,高等教育出版社,2010](https://pan.baidu.com/s/1qZrrGHu) <b>密码: c260</b> <img src="https://img.shields.io/badge/Stata-10.0-E10098.svg" ></img>  
+- [《Stata统计软件使用入门》,司继春,上海对外经贸大学统计与信息学院](https://pan.baidu.com/s/1BjGq1UuiZgZKnKHMQyWJcw) <b>密码: 11cv</b> <img src="https://img.shields.io/badge/Stata-15.0-E10098.svg" ></img>  
+- [《Stata统计分析与行业应用案例详解（第2版）》,张甜 李爽编著,清华大学出版社,2017](https://pan.baidu.com/s/1taQGSSLXpgG_4YhZOydryA)<b>密码:8888</b><img src="https://img.shields.io/badge/Stata-12.0~14.0-E10098.svg" ></img>
+- [《Stata统计分析与应用.第3版》,马慧慧主编,电子工业出版社,2016](https://pan.baidu.com/s/1w7Y51-UR4XuD8jxXuYe10w)<b>密码: 8888</b><img src="https://img.shields.io/badge/Stata-10.0~14.0-E10098.svg" ></img>
+    - [💿光盘(含Stata教学视频&数据和结果文件)](https://pan.baidu.com/s/1mj2plMC) <b>密码: 2x30</b>
 - [《高级计量经济学及Stata应用（第二版）》,陈强,高等教育出版社,2014](https://pan.baidu.com/s/1qlqdwFUds9hkTZUr0Hkm6g) <b>密码: 2yh2</b> <img src="https://img.shields.io/badge/Stata-12.0-E10098.svg" ></img>  
     - [💿PPT&数据](https://pan.baidu.com/s/1sZWJivp_x9I98glIrMF3Ig) <b>密码: re9a</b> 
     - [部分习题参考答案](https://pan.baidu.com/s/1wdWAN3wDsxFSxoXyFoMCFQ?pwd=8888)
-- [《Stata简明讲义》,王非,中国经济研究中心](https://pan.baidu.com/s/1dHaZxTn) <b>密码: j35b</b> <img src="https://img.shields.io/badge/Stata-9.1-E10098.svg" ></img>  
+- [《Stata统计分析与行业应用案例详解》,张甜编著,清华大学出版社,2014](https://pan.baidu.com/s/1dgoVBS) <b>密码: 4gkr</b><img src="https://img.shields.io/badge/Stata-9.0~12.0-E10098.svg" ></img>
+    - [💿光盘（内含Stata教学视频&示例数据）](https://pan.baidu.com/s/1c3vdWnm) <b>密码: cuwn</b>
+- [《高级计量经济学及Stata应用》,陈强,高等教育出版社,2010](https://pan.baidu.com/s/1qZrrGHu) <b>密码: c260</b> <img src="https://img.shields.io/badge/Stata-10.0-E10098.svg" ></img>  
+- [《Stata统计分析与应用》,周广肃、梁荣、田金秀等编著,机械工业出版社,2015](https://pan.baidu.com/s/1oAqWdtC) <b>密码: 483g</b><img src="https://img.shields.io/badge/Stata-10.0-E10098.svg" ></img>
+    - [💿光盘](https://pan.baidu.com/s/1eloSQM) <b>密码: ascc</b>
+- [《随机模拟与金融数据处理Stata教程》,李春涛，张璇,中国金融出版社,2009](https://pan.baidu.com/s/1miVLlwc) <b>密码: cspm</b> <img src="https://img.shields.io/badge/Stata-10.0-E10098.svg" ></img>
+- [《计量分析与STATA应用》,连玉君,中山大学岭南学院](https://pan.baidu.com/s/1kGa0exZacmHPJ-85qMcSBA) <b>密码: 2fk7</b> <img src="https://img.shields.io/badge/Stata-8.0~10.0-E10098.svg" ></img>
+- [《Stata统计分析教材（人大十八讲）》,陈传波,中国人民大学](https://pan.baidu.com/s/1kW7aVJL) <b>密码: 7nfs</b><img src="https://img.shields.io/badge/Stata-9.2-E10098.svg" ></img>
+- [《用Stata学计量经济学》,克里斯托弗·F·鲍姆,中国人民大学出版社,2012](https://pan.baidu.com/s/1Kmcc4o6KCZwn0FOMM3zPnQ) <b>密码: ub94</b><img src="https://img.shields.io/badge/Stata-9.2-E10098.svg" ></img>  
+- [《Stata简明讲义》,王非,中国经济研究中心](https://pan.baidu.com/s/1dHaZxTn) <b>密码: j35b</b> <img src="https://img.shields.io/badge/Stata-9.1-E10098.svg" ></img>
+- [《社会统计分析与数据处理技术:STATA软件的应用》,杨菊华编著、梁荣、田金秀等编著,中国人民大学出版社,2008](https://pan.baidu.com/s/1sm8QBJv) <b>密码: k94m</b> <img src="https://img.shields.io/badge/Stata-9.0-E10098.svg" ></img>   
+    - [💿光盘(含1989-2006年CHNS数据&复习思考题数据及答案程序&正文数据及数据处理程序)](https://pan.baidu.com/s/1smVlqUh) <b>密码: 3zmk</b>
+- [《计量经济学导论》,杰弗里·M·伍德里奇,中国人民大学出版社,2015](https://pan.baidu.com/s/1nwG0uuP) <b>密码: yxee</b> <img src="https://img.shields.io/badge/Stata-9.0-E10098.svg" ></img>
+- [《Stata统计分析与应用》,张鹏伟,李嫣怡著,电子工业出版社, 2011](https://pan.baidu.com/s/1kWDM6W3)  <b>密码: vccc</b>  
+- 《Stata统计分析与应用.修订版》,胡博编著,电子工业出版社,2013  
+    - [💿光盘](https://pan.baidu.com/s/1i6YPwrj) <b>密码: diz1</b>  
+- [《应用Stata做统计分析》,劳伦斯·汉密尔顿,重庆大学出版社,2008](https://pan.baidu.com/s/1qZJccG0) <b>密码:pole </b> <img src="https://img.shields.io/badge/Stata-8.0-E10098.svg" ></img>  
+    - [💿数据](https://pan.baidu.com/s/1pMYDhZ9) <b>密码:kyt1 </b>  
 - [《现代医学统计方法与Stata应用》,陈峰,中国统计出版社,1999](https://pan.baidu.com/s/1i64xmXB) <b>密码: lh8b</b> <img src="https://img.shields.io/badge/Stata-7.0-E10098.svg" ></img>  
-- [《计量经济学导论》,杰弗里·M·伍德里奇,中国人民大学出版社,2015](https://pan.baidu.com/s/1nwG0uuP) <b>密码: yxee</b> <img src="https://img.shields.io/badge/Stata-9.0-E10098.svg" ></img>  
-- [《随机模拟与金融数据处理Stata教程》,李春涛，张璇,中国金融出版社,2009](https://pan.baidu.com/s/1miVLlwc) <b>密码: cspm</b> <img src="https://img.shields.io/badge/Stata-10.0-E10098.svg" ></img>  
-- [《用Stata学计量经济学》,克里斯托弗·F·鲍姆,中国人民大学出版社,2012](https://pan.baidu.com/s/1Kmcc4o6KCZwn0FOMM3zPnQ) <b>密码: ub94</b> 	 
-- [《Stata统计分析教材（人大十八讲）》,陈传波,中国人民大学](https://pan.baidu.com/s/1kW7aVJL) <b>密码: 7nfs</b> 	 
 - [《STATA实用教程》,王天夫，李博柏,中国人民大学出版社,2008](https://pan.baidu.com/s/1jJoMfSq) <b>密码: j2so</b> 	 
 - [《Stata与LaTeX的完美结合》,连玉君,中山大学岭南学院](https://pan.baidu.com/s/1mjfU9pI) <b>密码: op0n</b>
-- [《计量分析与STATA应用》,连玉君,中山大学岭南学院](https://pan.baidu.com/s/1kGa0exZacmHPJ-85qMcSBA) <b>密码: 2fk7</b> <img src="https://img.shields.io/badge/Stata-8.0-E10098.svg" ></img> <img src="https://img.shields.io/badge/Stata-9.0-E10098.svg" ></img> <img src="https://img.shields.io/badge/Stata-10.0-E10098.svg" ></img>
-- [《Stata统计软件使用入门》,司继春,上海对外经贸大学统计与信息学院](https://pan.baidu.com/s/1BjGq1UuiZgZKnKHMQyWJcw) <b>密码: 11cv</b> <img src="https://img.shields.io/badge/Stata-15.0-E10098.svg" ></img>  
 - [《计量经济学基础与Stata应用》,胡咏梅,北京师范大学出版社](https://pan.baidu.com/s/1z8dymvBzZZzrYbndOkn4IQ) <b>密码: 8ljn</b> 	 
-- [《Stata 软件基本操作和数据分析入门》,赵耐青 张文彤](https://pan.baidu.com/s/1B6T6iOz8mWYqGqKuBU3UNQ) <b>密码: r56w</b> <img src="https://img.shields.io/badge/Stata-7.0-E10098.svg" ></img>  
+- [《Stata 软件基本操作和数据分析入门》,赵耐青 张文彤](https://pan.baidu.com/s/1B6T6iOz8mWYqGqKuBU3UNQ) <b>密码: r56w</b> <img src="https://img.shields.io/badge/Stata-7.0-E10098.svg" ></img>
 	 
 #### 📚 英文书籍
 - [《Stata time-series Reference Manual Release 11》,StataCorp LP,Stata Press,2009](https://pan.baidu.com/s/1smyHmLB )	<b style="color:green;">密码: 9g6m</b>  
