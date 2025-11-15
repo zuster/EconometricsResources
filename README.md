@@ -24,7 +24,7 @@
 - [ 《西方经济学（宏观部分）》（第8版）,高鸿业主编,中国人民大学出版社,2021.8 ](https://pan.baidu.com/s/1nN1VUDeU8gsfvDqfdqEy1g) <b>密码:8888</b>
 - [ 《西方经济学（宏观部分）》（第5版）,高鸿业主编,中国人民大学出版社,2010 ](https://pan.baidu.com/s/1VG1K1afQTH7pSBuv0uy7eA) <b>密码:gp28</b>
 - [ 《高级宏观经济学》,袁志刚、宋铮著,复旦大学出版社,2001 ](https://pan.baidu.com/s/1o-330_5zJbQ3cggEW1K42Q) <b>密码:l37w</b>
-- [ 《宏观经济学》(第十二版)(美)鲁迪格·多恩布什，(美)斯坦利·费希尔，(美)理查德·斯塔效著;王志伟译校,中国人民大学出版社,2017.2 ](ttps://pan.baidu.com/s/1jGiOZKcuw_UxXL7zKu-2tQ) <b>密码:8888</b>
+- [ 《宏观经济学》(第十二版)(美)鲁迪格·多恩布什，(美)斯坦利·费希尔，(美)理查德·斯塔效著;王志伟译校,中国人民大学出版社,2017.2 ](https://pan.baidu.com/s/1jGiOZKcuw_UxXL7zKu-2tQ) <b>密码:8888</b>
     - [《宏观经济学》(第十二版)学习指导书 (美)鲁迪格·多恩布什等编;王志伟译校,中国人民大学出版社，2018.9](https://pan.baidu.com/s/1INxInIt5xzMJhCKeud32Nw) <b>密码:8888</b>
     - [《宏观经济学》(第十二版)笔记与课后习题详解](https://pan.baidu.com/s/1HHwbK4590IDeYH-aeifwmg) <b>密码:8888</b>
     - [《宏观经济学》(第十二版)题库（考研真题、课后习题、章节题库、模拟试题）](https://pan.baidu.com/s/1omhk3zzlfVG-06XhVGi6-w) <b>密码:8888</b>
