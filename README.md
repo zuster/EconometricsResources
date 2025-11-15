@@ -1,7 +1,7 @@
 <h1  align="center">📊 EconometricsResources/经济学资料集</h1>
 <p align="center"> `科学`是对狂热和狂言最好的解毒剂。——亚当·斯密<br> 一个人必须经过一番刻苦`奋斗`，才会有所成就。——安徒生</p>
-<p align="center"><img src="https://img.shields.io/badge/本项目中所有内容均来自网络，如涉及版权和付费问题，随时联系作者删除-FF0000.svg"></img>   
-<img src="https://img.shields.io/badge/下载试读后请及时删除并购买正版-FF0000.svg"></img></p> 
+<p align="center"><img src="https://img.shields.io/badge/本项目中所有内容均来自网络，如涉及版权和付费问题，随时联系作者删除-FF0000.svg"></img></p>  
+<p align="center"><img src="https://img.shields.io/badge/下载试读后请及时删除并购买正版-FF0000.svg"></img></p> 
 
 ## 📚 项目概述
 本项目是一个专注于 `经济学` 专业的综合性资源库，致力于收集、整理和分享各类学习资料，包括：
@@ -14,7 +14,7 @@
 
 > 💡 **温馨提示**：项目持续更新中，欢迎通过 <zuster@sina.cn> 联系作者提供建议或分享资源。
 
-> 💡 **温馨提示**：本项目中所有内容均来自网络，如涉及版权和付费问题，随时联系作者删除。
+> 💡 **温馨提示**：本项目中所有内容均来自网络，如涉及版权和付费问题，请随时联系作者删除。
 
 > 💡 **温馨提示**：**下载试读后请及时删除并购买正版。**
 
