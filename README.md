@@ -37,6 +37,9 @@
     - [多恩布什《宏观经济学》冲刺串讲及模拟四套卷](https://pan.baidu.com/s/1fTY_W8uBUebp2zNLDMAlsQ) <b>密码:8888</b>
 - [《宏观经济学》(第十一版)N.格里高利·曼昆著,卢远瞩译,中国人民大学出版社](https://pan.baidu.com/s/1U-afHxxBelDVAHz63ZD3uQ) <b>密码:8888</b>
 - [《宏观经济学》(第十版)N.格里高利·曼昆著,卢远瞩译,中国人民大学出版社](https://pan.baidu.com/s/1R4fdyL1rsmHSIBmLMOYthQ) <b>密码:8888</b>
+- [《宏观经济学：现代观点》[美]罗伯特·.巴罗著,沈志彦 陈利贤译,上海人民出版社,2008](https://pan.baidu.com/s/1CCOjtvoosE1SdhNdiY1eOw) <b>密码:8888</b>
+    - [巴罗《宏观经济学：现代观点》学习精要·习题解析·补充训练(修订版),科兴教育编,上海财经大学出版社,2017.6](https://pan.baidu.com/s/1Jif3I6l0a1g22fNsbgvwgg) <b>密码:8888</b>
+    - [巴罗《宏观经济学：现代观点》笔记&课后习题&考研真题](https://pan.baidu.com/s/1Apoxq05kf71gQBrJoAl-Bw) <b>密码:8888</b>
 
 ### 📉 微观经济学
 - [ 《西方经济学（微观部分）》（第8版）,高鸿业主编,中国人民大学出版社,2021.8](https://pan.baidu.com/s/1F0ENz6ZGa95jukV4Kp-48Q) <b>密码:8888</b>
