@@ -100,7 +100,7 @@
 ### 💹 财务管理学
 - [ 《财务管理学》（第9版）,王化成 刘俊彦 荆新主编,中国人民大学出版社,2021.5](https://pan.baidu.com/s/1kGwIw3KnYTgEWjotHN1aYw) <b>密码:8888</b>
 - [ 《财务管理学》（第8版）,荆新 王化成 刘俊彦主编,中国人民大学出版社,2018.5](https://pan.baidu.com/s/1shaBTm99BR4bEcF5_Acmyw) <b>密码:8888</b>
-    - - [ 《财务管理学》（第8版）,课后习题答案](https://pan.baidu.com/s/1IW_4zkpJCsdeKzOfRWTPbQ) <b>密码:8888</b>
+    - [ 《财务管理学》（第8版）,课后习题答案](https://pan.baidu.com/s/1IW_4zkpJCsdeKzOfRWTPbQ) <b>密码:8888</b>
 
 ## 📑 期刊
 
