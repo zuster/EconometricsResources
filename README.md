@@ -22,7 +22,9 @@
 
 ### 📈 宏观经济学
 - [ 《西方经济学（宏观部分）》（第8版）,高鸿业主编,中国人民大学出版社,2021.8 ](https://pan.baidu.com/s/1nN1VUDeU8gsfvDqfdqEy1g) <b>密码:8888</b>
-- [ 《西方经济学（宏观部分）》（第5版）,高鸿业主编,中国人民大学出版社,2010 ](https://pan.baidu.com/s/1VG1K1afQTH7pSBuv0uy7eA) <b>密码:gp28</b>
+    - [ 《西方经济学（宏观部分）》（第7版）,高鸿业主编,中国人民大学出版社,2018.1 ](https://pan.baidu.com/s/18qcCf1lMUblDZSTTKO_syA) <b>密码:8888</b>
+    - [ 《西方经济学（宏观部分）》（第6版）,高鸿业主编,中国人民大学出版社,2014.7 ](https://pan.baidu.com/s/1Q4D3dVKjHUsshPl291Hhyg) <b>密码:8888</b>
+    - [ 《西方经济学（宏观部分）》（第5版）,高鸿业主编,中国人民大学出版社,2010 ](https://pan.baidu.com/s/1VG1K1afQTH7pSBuv0uy7eA) <b>密码:gp28</b>
 - [ 《高级宏观经济学》,袁志刚、宋铮著,复旦大学出版社,2001 ](https://pan.baidu.com/s/1o-330_5zJbQ3cggEW1K42Q) <b>密码:l37w</b>
 - [ 《宏观经济学》(第十版)(美)鲁迪格·多恩布什，(美)斯坦利·费希尔，(美)理查德·斯塔效著;王志伟译校,中国人民大学出版社,2009 ](https://pan.baidu.com/s/1l-13l4atqcl8AM3Oy6aBzw) <b>密码:8888</b>
     - [ 多恩布什《宏观经济学》(第十版)笔记和课后习题详解 圣才学习网主编,中国石化出版社 ](https://pan.baidu.com/s/1oH74z3xc82kdBq8aZg4_sA) <b>密码:8888</b>
@@ -47,7 +49,11 @@
 
 ### 📉 微观经济学
 - [ 《西方经济学（微观部分）》（第8版）,高鸿业主编,中国人民大学出版社,2021.8](https://pan.baidu.com/s/1F0ENz6ZGa95jukV4Kp-48Q) <b>密码:8888</b>
+    - [ 《西方经济学（微观部分）》（第7版）,高鸿业主编,中国人民大学出版社,2018.1](https://pan.baidu.com/s/1vxtJsvR3tufyrpGc4khPIg) <b>密码:8888</b>
 - [ 《管理经济学：应用、战略与策略》,麦圭根、莫耶、哈里斯编著,机械工业出版社,2009 ](https://pan.baidu.com/s/11i0PtXL6-RTM3nFTmFJ1DQ) <b>密码:z7jw</b>
+- [《微观经济学：现代观点》(第9版)[美]哈尔·R.范里安著,费方域 朱保华等译,上海人民出版社,2008](https://pan.baidu.com/s/19lPJRHFyFC66nqz5qlx3zg) <b>密码:8888</b>
+    - [范里安《微观经济学：现代观点》(第9版)笔记&课后习题详解](https://pan.baidu.com/s/1HpFazM0vG2NkKWWCuz0vNQ) <b>密码:8888</b>
+
 
 ### 🌐 综合西方经济学
 - [《西方经济学（第二版）上册》.《西方经济学》编写组.马克思主义理论研究和建设工程重点教材.高等教育出版社.2019.9](https://pan.baidu.com/s/1afvrkUPhzs2Qv07UXsC0xQ) <b>密码:ncfg</b>
@@ -273,6 +279,9 @@
 [《SAS9.2从入门到精通》杨池然 仲文明 周志勇 编著,电子工业出版社,2011.08](https://pan.baidu.com/s/1MxE7aA_e_J7nBNjGfarQig)<b>密码:8888</b><img src="https://img.shields.io/badge/SAS-9.2-E10098.svg" ></img>  
 [《可视化分析与SAS实现》朱继辉 刘政 窦运涛 邱威编著,机械工业出版社](https://pan.baidu.com/s/1rrMrAw3nJ7Ej3DFdl9lgbg)<b>密码:8888</b>  
 [《医学统计学及SAS应用（修订版）》王炳顺主编,上海交通大学出版社,2009](https://pan.baidu.com/s/1raFLs-MeSWq22_txy8bZRQ)<b>密码:8888</b>
+
+### 🗃️ MATLEB
+
 
 ### 🛟 [图论](Soft/GraphTheory.md)
 #### 📚 学习书籍
