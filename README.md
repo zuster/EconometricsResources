@@ -1,17 +1,22 @@
-<h1  align="center">EconometricsResources/经济学资料集</h1>
+<h1  align="center">📊 EconometricsResources/经济学资料集</h1>
 <p align="center"> <b>科学</b>是对狂热和狂言最好的解毒剂。——亚当·斯密<br> 一个人必须经过一番刻苦<b>奋斗</b>，才会有所成就。——安徒生</p>
-<p align="center"><img src="https://img.shields.io/badge/本项目中所有内容均来自网络，如涉及版权和付费问题，随时联系作者删除-FF0000.svg" ></img> <img src="https://img.shields.io/badge/下载试读后请及时删除并购买正版-FF0000.svg" ></img></p> 
+<p align="center"><img src="https://img.shields.io/badge/本项目中所有内容均来自网络，如涉及版权和付费问题，随时联系作者删除-FF0000.svg"  alt="版权声明"></img> <img src="https://img.shields.io/badge/下载试读后请及时删除并购买正版-FF0000.svg"  alt="使用建议"></img></p> 
 
-## 📚 概述
+## 📚 项目概述
+本项目是一个专注于 `经济学` 专业的综合性资源库，致力于收集、整理和分享各类学习资料，包括：
 
-本项目用于收集、整理和分享 `经济学` 专业相关的资料，包括但不限于**书籍**、**期刊**、**学习资料**、**考研材料**、**读书笔记**等。  
-由于本人能力和精力有限，无法囊括所有内容，目前搜集多少罗列多少，待后期资料比较丰富时会进行分门别类。  
-如果你有什么需求，或者有什么好的资料想要分享，请联系作者<zuster@sina.cn>.
+- **📚 教材与专著** - 经典教材、权威专著
+- **🗞️ 学术期刊** - 国内外重要经济学期刊
+- **💾 研究数据** - 各类经济数据库和调查数据  
+- **🛠️ 分析工具** - 统计软件教程和应用指南
+- **🎓 学习资源** - 考研材料、视频课程、读书笔记
 
-## 📖 书籍
+> 💡 **温馨提示**：项目持续更新中，欢迎通过 <zuster@sina.cn> 联系作者提供建议或分享资源。
+
+## 📚 核心书库
 ### 📚 经济学原理与通识
 
-- [ 《经济学原理 - 宏观经济学分册（第8版）》美·曼昆著,梁小民译,北京大学出版社,2020.5 ](https://pan.baidu.com/s/1K9qRoU5ZpCUPjJmei1SrLA) <b>密码:vtv8</b>
+- [ 《经济学原理 - 宏观经济学分册（第8版）》美·曼昆著,梁小民译,北京大学出版社,2020.5 ](https://pan.baidu.com/s/1K9qRoU5ZpCUPjJmei1SrLA) `密码:vtv8`
     -   - [曼昆《经济学原理 - 宏观经济学分册》(第8版)笔记&课后习题详解](https://pan.baidu.com/s/1NtnreErlMDcxcI6QQATtDQ) <b>密码:8888</b>
     -   - [曼昆《经济学原理 - 宏观经济学分册》(第8版)配套题库（考研真题精选&章节题库）](https://pan.baidu.com/s/1ZY-sdlJkYUW2bTkGhUeEBA) <b>密码:8888</b>
 - [ 《经济学原理 - 微观经济学分册（第8版）》美·曼昆著,梁小民译,北京大学出版社,2020.5 ](https://pan.baidu.com/s/1sw3iGa9BDL0QMjYVzTljPQ) <b>密码:u5j5</b>
