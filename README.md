@@ -14,9 +14,28 @@
 
 > 💡 **温馨提示**：项目持续更新中，欢迎通过 <zuster@sina.cn> 联系作者提供建议或分享资源。
 
-> 💡 **温馨提示**：本项目中所有内容均来自网络，如涉及版权和付费问题，请随时联系作者删除。
+---
 
-> 💡 **温馨提示**：**下载试读后请及时删除并购买正版。**
+## 💝 支持项目
+
+<div align="center">
+
+### 🤲 鼓励支持
+
+**收集、整理、维护这些资源需要大量的时间和精力**
+
+如果这个项目对您的学习或研究有帮助，欢迎通过以下方式支持作者继续更新：
+
+| 支付方式 | 二维码 |
+|---------|--------|
+| **微信支付** | <img src="./Images/wepay.png" width="200" alt="微信收款码"> |
+| **支付宝** | <img src="./Images/alipay.png" width="200" alt="支付宝收款码"> |
+
+💰 **您的每一份支持都是我持续更新的动力！** 💰
+
+</div>
+
+---
 
 ## 📚 核心书库
 ### 📚 经济学原理与通识
@@ -344,9 +363,30 @@
 3. [《曼昆<宏观经济学>（第5版）课后习题详解》,上海恩波学校、翔高教育经济学研究中心编著,复旦大学出版社,2007](https://pan.baidu.com/s/1qmvg_99qzMN7uwaKu70_Xg) `密码:pj8l`  
 4. [《威廉森<宏观经济学>（第5版）笔记和课后习题详解》](https://pan.baidu.com/s/1k8wTY4cMP6J9BPKKvE6log) `密码:hgsu`
 
-## ⚠️ 重要说明
-- 🚨 本项目中所有内容均来自网络，如涉及版权和付费问题，随时联系作者删除 🚨 
-- 🚨 下载试读后请及时删除并购买正版 🚨 
+## ⚠️ 重要声明
 
-## ⭐ Project Stats
+<div class="warning" style="background: #fff3cd; border: 1px solid #ffeaa7; border-radius: 5px; padding: 15px; margin: 20px 0;">
+
+🚨 **版权提醒**：本项目中所有资源均来自网络收集，仅限学习交流使用。如涉及版权问题，请及时联系作者删除。
+
+🚨 **支持正版**：建议下载试读后购买正版教材，支持作者和出版社的辛勤劳动。
+
+📧 **联系方式**：如有任何问题或建议，请通过 <zuster@sina.cn> 联系作者。
+
+</div>
+
+## ❤️ 致谢
+
+感谢所有为这个项目做出贡献的朋友们！特别感谢那些通过打赏支持项目持续发展的朋友们！
+
+**您的支持让我有动力继续收集、整理和分享更多优质的经济学资源！**
+
+## ⭐ 项目动态
 [![Star History Chart](https://api.star-history.com/svg?repos=zuster/EconometricsResources&type=date&legend=bottom-right)](https://www.star-history.com/#zuster/EconometricsResources&type=date&legend=bottom-right)
+
+---
+<div align="center">
+
+**如果这个项目对你有帮助，请给一个 ⭐ Star 支持！**
+
+</div>
