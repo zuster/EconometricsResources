@@ -342,6 +342,8 @@
 3. [《曼昆<宏观经济学>（第5版）课后习题详解》,上海恩波学校、翔高教育经济学研究中心编著,复旦大学出版社,2007](https://pan.baidu.com/s/1qmvg_99qzMN7uwaKu70_Xg) `密码:pj8l`  
 4. [《威廉森<宏观经济学>（第5版）笔记和课后习题详解》](https://pan.baidu.com/s/1k8wTY4cMP6J9BPKKvE6log) `密码:hgsu`
 
+---
+
 ## ⚠️ 重要声明
 
 <div class="warning" style="background: #fff3cd; border: 1px solid #ffeaa7; border-radius: 5px; padding: 15px; margin: 20px 0;">
@@ -353,6 +355,8 @@
 📧 **联系方式**：如有任何问题或建议，请通过 <zuster@sina.cn> 联系作者。
 
 </div>
+
+---
 
 ## 💝 支持项目
 
