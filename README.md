@@ -26,10 +26,9 @@
 
 如果这个项目对您的学习或研究有帮助，欢迎通过以下方式支持作者继续更新：
 
-| 支付方式 | 二维码 |
+| **支付宝** | **微信** |
 |---------|--------|
-| **微信支付** | <img src="./Images/wepay.png" width="200" alt="微信收款码"> |
-| **支付宝** | <img src="./Images/alipay.png" width="200" alt="支付宝收款码"> |
+| <img src="./Images/alipay.png" width="200" alt="支付宝收款码"> | <img src="./Images/wepay.png" width="200" alt="微信收款码"> |
 
 💰 **您的每一份支持都是我持续更新的动力！** 💰
 
