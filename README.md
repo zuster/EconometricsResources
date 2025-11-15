@@ -16,26 +16,6 @@
 
 ---
 
-## 💝 支持项目
-
-<div align="center">
-
-### 🤲 鼓励支持
-
-**收集、整理、维护这些资源需要大量的时间和精力**
-
-如果这个项目对您的学习或研究有帮助，欢迎通过以下方式支持作者继续更新：
-
-| **支付宝** | **微信** |
-|---------|--------|
-| <img src="./Images/alipay.png" width="200" alt="支付宝收款码"> | <img src="./Images/wepay.png" width="200" alt="微信收款码"> |
-
-💰 **您的每一份支持都是我持续更新的动力！** 💰
-
-</div>
-
----
-
 ## 📚 核心书库
 ### 📚 经济学原理与通识
 
@@ -374,11 +354,33 @@
 
 </div>
 
+## 💝 支持项目
+
+<div align="center">
+
+### 🤲 鼓励支持
+
+**收集、整理、维护这些资源需要大量的时间和精力**
+
+如果这个项目对您的学习或研究有帮助，欢迎通过以下方式支持作者继续更新：
+
+| **支付宝** | **微信** |
+|---------|--------|
+| <img src="./Images/alipay.png" width="200" alt="支付宝收款码"> | <img src="./Images/wepay.png" width="200" alt="微信收款码"> |
+
+💰 **您的每一份支持都是我持续更新的动力！** 💰
+
+</div>
+
+---
+
 ## ❤️ 致谢
 
 感谢所有为这个项目做出贡献的朋友们！特别感谢那些通过打赏支持项目持续发展的朋友们！
 
 **您的支持让我有动力继续收集、整理和分享更多优质的经济学资源！**
+
+---
 
 ## ⭐ 项目动态
 [![Star History Chart](https://api.star-history.com/svg?repos=zuster/EconometricsResources&type=date&legend=bottom-right)](https://www.star-history.com/#zuster/EconometricsResources&type=date&legend=bottom-right)
