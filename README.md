@@ -252,22 +252,22 @@
 - [《Stata 软件基本操作和数据分析入门》,赵耐青 张文彤](https://pan.baidu.com/s/1B6T6iOz8mWYqGqKuBU3UNQ) `密码: r56w` <img src="https://img.shields.io/badge/Stata-7.0-E10098.svg" ></img>
 	 
 #### 📚 英文书籍
-- [《Stata time-series Reference Manual Release 11》,StataCorp LP,Stata Press,2009](https://pan.baidu.com/s/1smyHmLB )	<b style="color:green;">密码: 9g6m`  
-- [《Microeconometrics Using Stata》,AC Cameron，PK Trivedi,Stata Press,2009](https://pan.baidu.com/s/1dGtaboH)	<b style="color:green;">密码: 8yky`  
-- [《Getting Started with Stata》,WTO Stata](https://pan.baidu.com/s/1htBQLEW)	<b style="color:green;">密码: vvgl`  
-- [《A Visual Guide to Stata Graphics, Second Edition》,MN Mitchell](https://pan.baidu.com/s/1qZNfM0k)	<b style="color:green;">密码: 0unu`  
-- [《Statistics with STATA version 12》,Lawrence C. Hamilton](https://pan.baidu.com/s/1cipAzalmyDFYbYiElzbV1A)	<b style="color:green;">密码: 8qgm`  
-- [《An Introduction to Survival Analysis Using Stata》,DL Mcgee](http://pan.baidu.com/s/1eSl9sPG)	<b style="color:green;">密码: aa6z`  
-- [《Data management using Stata》,Stata Press, 2010](http://pan.baidu.com/s/1mikbkZA)	<b style="color:green;">密码: 5nnt`  
-- [《A Handbook of Statistical Analyses using Stata Third Edition》,S Rabehesketh，B Everitt](https://pan.baidu.com/s/1EiyzRQ50e8QccpGtozckQA)	<b style="color:green;">密码: b97v`  
-- [《Multilevel and Longitudinal Modeling Using Stata, Second Edition》,S Rabe-Hesketh，A Skrondal](http://pan.baidu.com/s/1jHB9tgM)	<b style="color:green;">密码: 8xbz`  
-- [《Exploratory spatial data analysis using Stata》,M Pisati](http://pan.baidu.com/s/1o7J8JKe)	<b style="color:green;">密码: t7a9`  
-- [《A Gentle Introduction to Stata, Fifth Edition》,AC Acock](http://pan.baidu.com/s/1hsdxI1e)	<b style="color:green;">密码: xv5k`  
-- [《Meta-analysis in Stata, Second Edition](http://pan.baidu.com/s/1eSaKbqM)	<b style="color:green;">密码: tjwp`  
-- [《An Introduction to Stata Programming, Second Edition》,CF Baum》,《Stata Press Books》, 2015](https://pan.baidu.com/s/1X87NywdSaBzhmBEZp2yQ9Q)	<b style="color:green;">密码: g50m`  
-- [《Introduction to Time Series Using Stata 》,S Becketti](https://pan.baidu.com/s/1HA1iXCqYTeGCEAKUOarxxw)	<b style="color:green;">密码: t2jv`  
-- [《Multilevel and Longitudinal Modeling Using Stata (3rd Edition)》,S Rabehesketh，A Skrondal](http://pan.baidu.com/s/1hrBD03q)	<b style="color:green;">密码: t8as`  
-- [《Discovering Structural Equation Modeling Using Stata》,A Acock](http://pan.baidu.com/s/1hsondUO)	<b style="color:green;">密码: abhm`  
+- [《Stata time-series Reference Manual Release 11》,StataCorp LP,Stata Press,2009](https://pan.baidu.com/s/1smyHmLB )	`密码: 9g6m`
+- [《Microeconometrics Using Stata》,AC Cameron，PK Trivedi,Stata Press,2009](https://pan.baidu.com/s/1dGtaboH)	`密码: 8yky`  
+- [《Getting Started with Stata》,WTO Stata](https://pan.baidu.com/s/1htBQLEW)	`密码: vvgl`  
+- [《A Visual Guide to Stata Graphics, Second Edition》,MN Mitchell](https://pan.baidu.com/s/1qZNfM0k)	`密码: 0unu`  
+- [《Statistics with STATA version 12》,Lawrence C. Hamilton](https://pan.baidu.com/s/1cipAzalmyDFYbYiElzbV1A)	`密码: 8qgm`  
+- [《An Introduction to Survival Analysis Using Stata》,DL Mcgee](http://pan.baidu.com/s/1eSl9sPG)	`密码: aa6z`  
+- [《Data management using Stata》,Stata Press, 2010](http://pan.baidu.com/s/1mikbkZA)	`密码: 5nnt`  
+- [《A Handbook of Statistical Analyses using Stata Third Edition》,S Rabehesketh，B Everitt](https://pan.baidu.com/s/1EiyzRQ50e8QccpGtozckQA)	`密码: b97v`  
+- [《Multilevel and Longitudinal Modeling Using Stata, Second Edition》,S Rabe-Hesketh，A Skrondal](http://pan.baidu.com/s/1jHB9tgM)	`密码: 8xbz`  
+- [《Exploratory spatial data analysis using Stata》,M Pisati](http://pan.baidu.com/s/1o7J8JKe)	`密码: t7a9`  
+- [《A Gentle Introduction to Stata, Fifth Edition》,AC Acock](http://pan.baidu.com/s/1hsdxI1e)	`密码: xv5k`  
+- [《Meta-analysis in Stata, Second Edition](http://pan.baidu.com/s/1eSaKbqM)	`密码: tjwp`  
+- [《An Introduction to Stata Programming, Second Edition》,CF Baum》,《Stata Press Books》, 2015](https://pan.baidu.com/s/1X87NywdSaBzhmBEZp2yQ9Q)	`密码: g50m`  
+- [《Introduction to Time Series Using Stata 》,S Becketti](https://pan.baidu.com/s/1HA1iXCqYTeGCEAKUOarxxw)	`密码: t2jv`  
+- [《Multilevel and Longitudinal Modeling Using Stata (3rd Edition)》,S Rabehesketh，A Skrondal](http://pan.baidu.com/s/1hrBD03q)	`密码: t8as`  
+- [《Discovering Structural Equation Modeling Using Stata》,A Acock](http://pan.baidu.com/s/1hsondUO)	`密码: abhm`  
 
 #### ▶️ 视频教程
 - [【连玉君stata初级+高级班】【 论文班视频+讲义+数据全套 】](https://pan.baidu.com/s/18npi5Ca7j26-T-TDwQA9_w) 	`密码: unvu` 	    
