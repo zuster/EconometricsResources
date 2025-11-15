@@ -23,6 +23,7 @@
 ### 📈 宏观经济学
 - [ 《西方经济学（宏观部分）》（第8版）,高鸿业主编,中国人民大学出版社,2021.8 ](https://pan.baidu.com/s/1nN1VUDeU8gsfvDqfdqEy1g) <b>密码:8888</b>
     - [ 《西方经济学（宏观部分）》（第7版）,高鸿业主编,中国人民大学出版社,2018.1 ](https://pan.baidu.com/s/18qcCf1lMUblDZSTTKO_syA) <b>密码:8888</b>
+        - [ 高鸿业《西方经济学（宏观部分）》（第7版）笔记&课后习题详解&考研真题](https://pan.baidu.com/s/16qVBdaJPBvz5eQ9VhEjFYw) <b>密码:8888</b>
     - [ 《西方经济学（宏观部分）》（第6版）,高鸿业主编,中国人民大学出版社,2014.7 ](https://pan.baidu.com/s/1Q4D3dVKjHUsshPl291Hhyg) <b>密码:8888</b>
     - [ 《西方经济学（宏观部分）》（第5版）,高鸿业主编,中国人民大学出版社,2010 ](https://pan.baidu.com/s/1VG1K1afQTH7pSBuv0uy7eA) <b>密码:gp28</b>
 - [ 《高级宏观经济学》,袁志刚、宋铮著,复旦大学出版社,2001 ](https://pan.baidu.com/s/1o-330_5zJbQ3cggEW1K42Q) <b>密码:l37w</b>
@@ -45,11 +46,13 @@
 - [《宏观经济学》（第7版）[美]奥利维尔·布兰查德著,楼永 孔爱国译,机械工业出版社,2019.2](https://pan.baidu.com/s/1TzS7nSEx2_eHVpgMhsVdpw) <b>密码:8888</b>
 - [《宏观经济学》（第6版）[美]奥利维尔·布兰查德 著大卫·约翰逊著,王立勇等译,清华大学出版社,2014](https://pan.baidu.com/s/1HvHP74DBB-QrNb7P1fz-AQ) <b>密码:8888</b>
     - [《宏观经济学》（第6版）笔记和课后习题详解](https://pan.baidu.com/s/1lYzoLTHpWTepjk2-_aE9Ag) <b>密码:8888</b>
-
+- [《中级宏观经济学》张延编著,北京大学出版社,2010.3](https://pan.baidu.com/s/1qBigd6-UTM1uCAgPB88HUw) <b>密码:8888</b>
+    - [《中级宏观经济学》张延编著,课后习题详解](https://pan.baidu.com/s/1uGBkJxZvtlXleksjdFkd_g) <b>密码:8888</b>
 
 ### 📉 微观经济学
 - [ 《西方经济学（微观部分）》（第8版）,高鸿业主编,中国人民大学出版社,2021.8](https://pan.baidu.com/s/1F0ENz6ZGa95jukV4Kp-48Q) <b>密码:8888</b>
     - [ 《西方经济学（微观部分）》（第7版）,高鸿业主编,中国人民大学出版社,2018.1](https://pan.baidu.com/s/1vxtJsvR3tufyrpGc4khPIg) <b>密码:8888</b>
+        - [ 高鸿业《西方经济学（微观部分）》（第7版）笔记&课后习题详解&考研真题](https://pan.baidu.com/s/1n79yGLiiSzGF7WpA7E4_IA) <b>密码:8888</b>
 - [ 《管理经济学：应用、战略与策略》,麦圭根、莫耶、哈里斯编著,机械工业出版社,2009 ](https://pan.baidu.com/s/11i0PtXL6-RTM3nFTmFJ1DQ) <b>密码:z7jw</b>
 - [《微观经济学：现代观点》(第9版)[美]哈尔·R.范里安著,费方域 朱保华等译,上海人民出版社,2008](https://pan.baidu.com/s/19lPJRHFyFC66nqz5qlx3zg) <b>密码:8888</b>
     - [范里安《微观经济学：现代观点》(第9版)笔记&课后习题详解](https://pan.baidu.com/s/1HpFazM0vG2NkKWWCuz0vNQ) <b>密码:8888</b>
@@ -81,6 +84,7 @@
 - [《卓有成效的管理者》,〔美〕彼得·德鲁克著,机械工业出版社,2009](https://pan.baidu.com/s/1JCRt1XpUYWRy3QQ46IQ_Sg) <b>密码:8888</b>
 - [《关键跃升：新任管理者成事的底层逻辑》,刘润著,机械工业出版社,2024年6月](https://pan.baidu.com/s/1j2QcWvSh87xJuuu0_ecC6Q) <b>密码:8888</b>
 - [《供应管理（第8版）》,戴维·伯特、帕特卡维奇、平克顿等著，何明珂、卢丽雪、张屹然等译,中国人民大学出版社,2012.6 ](https://pan.baidu.com/s/1N-ArK83cXxUVWyrnNKwgbQ) <b>密码:3s3v</b>
+- [《管理学 —— 原理与方法》（第7版）,周三多 陈传明 刘子馨 贾良定编著,复旦大学出版社,2018.6 ](https://pan.baidu.com/s/12lf33HQdGcIzm0jYUH_QpA) <b>密码:8888</b>
 
 ### 💰 金融学
 - [《国际金融学（第四版）》杨长江 姜波克 编著,高等教育出版社,2014.6](https://pan.baidu.com/s/1OBDwUF1UN8DBHWYjssR7NQ) <b>密码:ifg0</b>
@@ -107,6 +111,9 @@
 - [ 《财务管理学》（第9版）,王化成 刘俊彦 荆新主编,中国人民大学出版社,2021.5](https://pan.baidu.com/s/1kGwIw3KnYTgEWjotHN1aYw) <b>密码:8888</b>
 - [ 《财务管理学》（第8版）,荆新 王化成 刘俊彦主编,中国人民大学出版社,2018.5](https://pan.baidu.com/s/1shaBTm99BR4bEcF5_Acmyw) <b>密码:8888</b>
     - [ 《财务管理学》（第8版）,课后习题答案](https://pan.baidu.com/s/1IW_4zkpJCsdeKzOfRWTPbQ) <b>密码:8888</b>
+
+### ⚙️ 运筹学
+- [ 《运筹学教程》（第5版）胡运权主编 郭耀煌副主编,清华大学出版社,2018](https://pan.baidu.com/s/1RUi0yX-t7AHfW8kQbe4kVw) <b>密码:8888</b>
 
 ## 📑 期刊
 
