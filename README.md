@@ -29,7 +29,9 @@
     - [ 曼昆《经济学原理》题解/周好文,钟永红,王慧编著北京:高等教育出版社,2002.10 ](https://pan.baidu.com/s/10PdJqM3gbJwgeVDbhy1Jkw) `密码:8888`
     - [ 曼昆《经济学原理》导读/《曼昆<经济学原理>导读》编写组编著，--北京:人民邮电出版社，2017.9 ](https://pan.baidu.com/s/1f_cpTnzyERiua2HqjkcQ2w) `密码:8888`
     - 📁 [曼昆《经济学原理》资料集（各类版本书籍&笔记&考研真题&题库&模拟试题）](https://pan.baidu.com/s/1WpT6RJulI-DsjifN_Y_AeA) `密码:8888`
-
+- [ 《宏观经济学》第5版,威廉森著,郭庆旺译,北京:中国人民大学出版社,2015.5 ](https://pan.baidu.com/s/1oF5A6XHLxt-_ylcE1WO_wA)`密码:8888`
+    - 📁 [威廉森《宏观经济学》资料集（笔记&课后习题详解&考研真题&题库&模拟试题）](https://pan.baidu.com/s/14VFvJnWf41NL5beuGi2_pg) `密码:8888`
+    - [《威廉森<宏观经济学>（第5版）笔记和课后习题详解》](https://pan.baidu.com/s/1k8wTY4cMP6J9BPKKvE6log) `密码:hgsu`
 - [ Principles of Economics.9E.N·GREGORY MANKIW [经济学原理（第9版）英文原版]](https://pan.baidu.com/s/1a88yMWyzQJFMoIK4LtYdDg) `密码:0cg4`
 - [ 《薛兆丰经济学讲义（第一版）》薛兆丰著,中信出版集团,2017.1 ](https://pan.baidu.com/s/1Jmyt5W513hvmSjjTcpz2dA) `密码:8888`
 - [ 《牛奶可乐经济学》美·罗伯特·弗兰克著,闾佳译,北京联合出版公司,2017.1](https://pan.baidu.com/s/1uLnNlQe9vAePd8Mu-YNelQ) `密码:eiq7`
@@ -41,7 +43,9 @@
 ### 📈 宏观经济学
 - [ 《西方经济学（宏观部分）》（第8版）,高鸿业主编,中国人民大学出版社,2021.8 ](https://pan.baidu.com/s/1nN1VUDeU8gsfvDqfdqEy1g) `密码:8888`
     - 📁 [ 高鸿业《西方经济学》资料集（各类版本书籍&笔记&考研真题&题库&模拟试题）](https://pan.baidu.com/s/1nocNsu4LCqhby5E3cX-ehg) `密码:8888`
-
+- [ 《宏观经济学》（第9版）(美)N·格里高利·曼昆著;卢远瞩译，北京:中国人民大学出版社，2016.8 ](https://pan.baidu.com/s/1KrEOt5wJEW0OvMlLubScXw) `密码:8888`
+    - [曼昆《宏观经济学（第9版）》笔记和课后习题详解](https://pan.baidu.com/s/1hrrm-63NwfklLplF-TiwCQ) `提取码: ki6t`
+    - [曼昆《宏观经济学（第5版）》课后习题详解](https://pan.baidu.com/s/1qmvg_99qzMN7uwaKu70_Xg) `密码:pj8l`  
 - [ 《高级宏观经济学》,袁志刚、宋铮著,复旦大学出版社,2001 ](https://pan.baidu.com/s/1o-330_5zJbQ3cggEW1K42Q) `密码:l37w`
 - [ 《宏观经济学》(第十版)(美)鲁迪格·多恩布什，(美)斯坦利·费希尔，(美)理查德·斯塔效著;王志伟译校,中国人民大学出版社,2009 ](https://pan.baidu.com/s/1l-13l4atqcl8AM3Oy6aBzw) `密码:8888`
     - [ 多恩布什《宏观经济学》(第十版)笔记和课后习题详解 圣才学习网主编,中国石化出版社 ](https://pan.baidu.com/s/1oH74z3xc82kdBq8aZg4_sA) `密码:8888`
@@ -70,7 +74,7 @@
 - [ 《管理经济学：应用、战略与策略》,麦圭根、莫耶、哈里斯编著,机械工业出版社,2009 ](https://pan.baidu.com/s/11i0PtXL6-RTM3nFTmFJ1DQ) `密码:z7jw`
 - [《微观经济学：现代观点》(第9版)[美]哈尔·R.范里安著,费方域 朱保华等译,上海人民出版社,2014](https://pan.baidu.com/s/19lPJRHFyFC66nqz5qlx3zg) `密码:8888`
     - [范里安《微观经济学：现代观点》(第9版)题库,上海人民出版社,2020.1](https://pan.baidu.com/s/1mOvOSh_Q-G1In9HEPKL6YA) `密码:8888`
-    - [ 范里安《微观经济学：现代观点》资料集（各类版本书籍&笔记&考研真题&题库&模拟试题）](https://pan.baidu.com/s/1YPjtsWoWMNoIcgr214ooJw) `密码:8888`
+    - 📁 [ 范里安《微观经济学：现代观点》资料集（各类版本书籍&笔记&考研真题&题库&模拟试题）](https://pan.baidu.com/s/1YPjtsWoWMNoIcgr214ooJw) `密码:8888`
 - [《微观经济学习题集》(第2版)张顺主编,中国人民大学出版社,2019.5](https://pan.baidu.com/s/1HtHlU6xwfzSrOa5doTUVAA) `密码:8888`
 - [《微观经济学》(第9版)[美]罗伯特·S.平狄克 丹尼尔·L.鲁宾费尔德著,李彬译,中国人民大学出版社,2020.2](https://pan.baidu.com/s/1AQhpfw19mtUnlLU104EZ9g) `密码:8888`
     - 📁 [平狄克《微观经济学》资料集（各类版本书籍&笔记&考研真题&题库&模拟试题）](https://pan.baidu.com/s/11NVx4QkXsn-iBFQ6B0DNzA) `密码:8888`
@@ -347,7 +351,6 @@
 
 ### 🗃️ MATLEB
 
-
 ### 🛟 [图论](Soft/GraphTheory.md)
 
 #### 📚 学习书籍
@@ -365,12 +368,6 @@
 5. [可汗学院公开课：货币银行学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2FKhan%2Fbankingandmoney.html)
 6. [十分钟看懂金融危机 次贷危机 房价](http://www.iqiyi.com/w_19rre7gwe9.html)  
 7. [【中国经济专题】徐高 -《宏观经济学二十五讲：中国视角》——北大国发院课程](https://www.bilibili.com/video/av70557114/)
-
-## 📎  其他资料
-
-2. [曼昆《宏观经济学（第9版）》笔记和课后习题详解](https://pan.baidu.com/s/1hrrm-63NwfklLplF-TiwCQ) `提取码: ki6t`
-3. [《曼昆<宏观经济学>（第5版）课后习题详解》,上海恩波学校、翔高教育经济学研究中心编著,复旦大学出版社,2007](https://pan.baidu.com/s/1qmvg_99qzMN7uwaKu70_Xg) `密码:pj8l`  
-4. [《威廉森<宏观经济学>（第5版）笔记和课后习题详解》](https://pan.baidu.com/s/1k8wTY4cMP6J9BPKKvE6log) `密码:hgsu`
 
 ---
 
