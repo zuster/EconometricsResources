@@ -301,6 +301,7 @@
     -	[安装指南](Stata15InstallGuide.md)
 
 ### 🧮 [SPSS资源](Soft/Spss.md)
+
 #### 📚 学习书籍
 - [《SPSS统计分析基础教程》（第3版）张文彤编著.--北京:高等教育出版社,2017.4](https://pan.baidu.com/s/184Fki05OUYFEEj2R-tqvxw)`密码:8888`
 - [《SPSS统计分析高级教程》（第3版）张文彤，董伟编著.北京:高等教育出版社，2018.1](https://pan.baidu.com/s/1fM96VyFVs4kXj4U0AJf02A)`密码:8888`
@@ -309,6 +310,12 @@
 - [《SPSS22.0统计分析从入门到精通》李昕，张明明编著，-北京:电子工业出版社，2015.3](https://pan.baidu.com/s/1gd16E0fnNZjLlgkNpajP8A)`密码:8888`
 - [《SPSS医学数据统计与分析》宗敏 徐君南编著，出版社，人民邮电出版社，2024.4](https://pan.baidu.com/s/1GMeqDVO9hvccZEByGSXZxw)`密码:8888`
 - [《SPSS 统计分析从入门到精通》（第4版）杨维忠，陈胜可，刘荣编著.北京:清华大学出版社，2019](https://pan.baidu.com/s/1SqwazO6lHtyfpNYp5USS6A)`密码:8888`
+- [《问卷统计分析实务--SPSS操作与应用》吴明隆著.重庆:重庆大学出版社,2010.5](https://pan.baidu.com/s/1zjJnZflzK2NmmUpGLltSvw)`密码:8888`
+- [《问卷调查及统计分析方法:基于SPSS》朱红兵编著，北京:电子工业出版社，2019.5](https://pan.baidu.com/s/1nf6mrlYeP5R7FIXFdXNRQQ)`密码:8888`
+- [《教育统计学与SPSS》范晓玲编著，一长沙:湖南师范大学出版社,2005.8](https://pan.baidu.com/s/1NzXHE71ktGZWUZteIoGlww)`密码:8888`
+- []()`密码:8888`
+- []()`密码:8888`
+
 
 #### ▶️ 视频教程
 - [B站 张文彤【SPSS统计分析教程：基础篇（2024版）】](https://www.bilibili.com/cheese/play/ss25845?bsource=link_copy) `收费`
@@ -331,6 +338,7 @@
 - SPSS For Mac: 在 http://xclient.info/ 网站搜索 SPSS，安装和破解方法参考网站提示。
 
 ### 🗃️ SAS
+
 #### 📚 学习书籍
 - [《SAS统计分析与应用实例》刘荣编著,电子工业出版社,2013.10](https://pan.baidu.com/s/1l6r8vJkcd8HvoYBM1C0slw)`密码:8888`<img src="https://img.shields.io/badge/SAS-9.2-E10098.svg" ></img>  
 - [《SAS9.2从入门到精通》杨池然 仲文明 周志勇 编著,电子工业出版社,2011.08](https://pan.baidu.com/s/1MxE7aA_e_J7nBNjGfarQig)`密码:8888`<img src="https://img.shields.io/badge/SAS-9.2-E10098.svg" ></img>  
@@ -341,6 +349,7 @@
 
 
 ### 🛟 [图论](Soft/GraphTheory.md)
+
 #### 📚 学习书籍
 - [《图论算法及其MATLAB实现》王海英等著,北京航空航天大学出版社,2010.2](https://pan.baidu.com/s/1j3wigh_K9ZSlKLtckZyOjA) `密码:shpv`
     -   [随书代码](./GraphTheory/图论算法及其MATLAB实现)
