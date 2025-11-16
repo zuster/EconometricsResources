@@ -264,7 +264,11 @@
 
 ## 🛠️ 分析工具
 
-### 📊 [Stata资源](Soft/Stata.md)
+### 📊 [Stata](Soft/Stata.md)
+**经济学实证分析的首选工具**
+-   **特点**：菜单驱动，易于上手，适合问卷分析
+-   **适用**：描述性统计、方差分析、因子分析
+
 #### 🌏 官方资料
 -	[Stata官网](https://www.stata.com/)  
 -	[Stata官方文档](https://www.stata.com/features/documentation/)  
@@ -345,7 +349,10 @@
   -   [Stata15 IC for Windows](https://pan.baidu.com/s/1yYFQU0_fo20mYrg2N--hDA)	`密码: 5iyx` 	  
     -	[安装指南](Stata15InstallGuide.md)
 
-### 📈 [SPSS资源](Soft/Spss.md)
+### 🧮 [SPSS资源](Soft/Spss.md)
+**社会科学统计分析的主流工具**
+-   **特点**：菜单驱动，易于上手，适合问卷分析
+-   **适用**：描述性统计、方差分析、因子分析
 
 #### 📚 学习书籍
 -   [《SPSS统计分析基础教程》（第3版）张文彤编著.--北京:高等教育出版社,2017.4](https://pan.baidu.com/s/184Fki05OUYFEEj2R-tqvxw)`密码:8888`
@@ -383,6 +390,9 @@
 - SPSS For Mac: 在 http://xclient.info/ 网站搜索 SPSS，安装和破解方法参考网站提示。
 
 ### 💼 SAS
+**企业级数据分析解决方案**
+-   **特点**：稳定可靠，处理大数据能力强，行业标准
+-   **适用**：金融风控、商业智能、医药统计
 
 #### 📚 学习书籍
 -   [《SAS统计分析与应用实例》刘荣编著,电子工业出版社,2013.10](https://pan.baidu.com/s/1l6r8vJkcd8HvoYBM1C0slw)`密码:8888`<img src="https://img.shields.io/badge/SAS-9.2-E10098.svg" ></img>  
@@ -391,6 +401,9 @@
 -   [《医学统计学及SAS应用（修订版）》王炳顺主编,上海交通大学出版社,2009](https://pan.baidu.com/s/1raFLs-MeSWq22_txy8bZRQ)`密码:8888`
 
 ### 🕸️ [图论](Soft/GraphTheory.md)
+**网络分析与优化建模**
+-   **特点**：研究对象间关系，解决路径优化问题
+-   **适用**：社交网络分析、交通规划、供应链优化
 
 #### 📚 学习书籍
 -   [《图论算法及其MATLAB实现》王海英等著,北京航空航天大学出版社,2010.2](https://pan.baidu.com/s/1j3wigh_K9ZSlKLtckZyOjA) `密码:shpv`
@@ -399,13 +412,22 @@
 #### 💿 相关软件
 [下载地址](https://pan.baidu.com/s/13fBj6k-9DXyZjPM5NrDTrw)  提取码: 8slm
 
-### 🧮 MATLEB
+### 🔢 MATLEB
+**强大的数值计算和工程仿真**
+-   **特点**：矩阵操作强大，编程灵活，可视化优秀
+-   **适用**：数值模拟、算法开发、信号处理
 // todo
 
 ### 📉 R语言
+**免费开源的统计计算环境**
+-   **特点**：包生态系统丰富，绘图功能强大，社区活跃
+-   **适用**：数据挖掘、统计建模、可视化分析
 // todo
 
 ### 🕐 Eviews
+**专业的时间序列分析与预测软件**
+-   **特点**：界面友好，专为时间序列设计，金融计量应用广泛
+-   **适用**：单位根检验、ARIMA模型、向量自回归、宏观经济预测
 // todo
 
 ## 🎥 学习视频
