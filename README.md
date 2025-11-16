@@ -48,7 +48,6 @@
 - [ 《宏观经济学》(第十二版)(美)鲁迪格·多恩布什，(美)斯坦利·费希尔，(美)理查德·斯塔效著;王志伟译校,中国人民大学出版社,2017.2 ](https://pan.baidu.com/s/1jGiOZKcuw_UxXL7zKu-2tQ) `密码:8888`
     - [《宏观经济学》(第十二版)学习指导书 (美)鲁迪格·多恩布什等编;王志伟译校,中国人民大学出版社，2018.9](https://pan.baidu.com/s/1INxInIt5xzMJhCKeud32Nw) `密码:8888`
     - 📁 [ 多恩布什《宏观经济学》资料集（各类版本书籍&笔记&考研真题&题库&模拟试题）](https://pan.baidu.com/s/1yO-6Dm9L8CjgjGNL784AnQ) `密码:8888`
-
 - [《宏观经济学》(第十一版)N.格里高利·曼昆著,卢远瞩译,中国人民大学出版社,2023](https://pan.baidu.com/s/1U-afHxxBelDVAHz63ZD3uQ) `密码:8888`
 - [《宏观经济学》(第十版)N.格里高利·曼昆著,卢远瞩译,中国人民大学出版社,2020](https://pan.baidu.com/s/1R4fdyL1rsmHSIBmLMOYthQ) `密码:8888`
 - [《宏观经济学：现代观点》[美]罗伯特·.巴罗著,沈志彦 陈利贤译,上海人民出版社,2008](https://pan.baidu.com/s/1CCOjtvoosE1SdhNdiY1eOw) `密码:8888`
@@ -144,6 +143,8 @@
 ### ⚙️ 运筹学
 - [ 《运筹学教程》（第5版）胡运权主编 郭耀煌副主编,清华大学出版社,2018](https://pan.baidu.com/s/1RUi0yX-t7AHfW8kQbe4kVw) `密码:8888`
 
+---
+
 ## 📑 期刊
 
 -   [《经济学报》 (China Journal of Economics)](https://tsjj.cbpt.cnki.net)
@@ -162,6 +163,8 @@
 -	[Journal of Political Economy](https://www.journals.uchicago.edu/toc/jpe/current)
 -   [China Economic Journal	](http://www.tandfonline.com/loi/rcej)
 -   [International Journal of Economics and Finance](https://ccsenet.org/journal/index.php/ijef)
+
+---
 
 ## 🗃️ 常用数据库
 
@@ -212,6 +215,8 @@
 45.	[Global Land Cover Facility 全球土地覆盖研究机构](http://landcover.org/)
 46.	[中国大学生成长追踪调查（2009）基线调查 ](https://pan.baidu.com/s/1ClqSGs1Oik5UCTxFuQePLg)
 
+---
+
 ## 💻 相关软件
 ### 📊 [Stata](Soft/Stata.md)
 #### 🌏 官方资料
@@ -223,28 +228,28 @@
 - [《Stata统计软件使用入门》,司继春,上海对外经贸大学统计与信息学院](https://pan.baidu.com/s/1BjGq1UuiZgZKnKHMQyWJcw) `密码: 11cv` <img src="https://img.shields.io/badge/Stata-15.0-E10098.svg" ></img>  
 - [《Stata统计分析与行业应用案例详解（第2版）》,张甜 李爽编著,清华大学出版社,2017](https://pan.baidu.com/s/1taQGSSLXpgG_4YhZOydryA)`密码:8888`<img src="https://img.shields.io/badge/Stata-12.0~14.0-E10098.svg" ></img>
 - [《Stata统计分析与应用.第3版》,马慧慧主编,电子工业出版社,2016](https://pan.baidu.com/s/1w7Y51-UR4XuD8jxXuYe10w)`密码: 8888`<img src="https://img.shields.io/badge/Stata-10.0~14.0-E10098.svg" ></img>
-    - [💿光盘(含Stata教学视频&数据和结果文件)](https://pan.baidu.com/s/1mj2plMC) `密码: 2x30`
+    - [ 💿 光盘(含Stata教学视频&数据和结果文件)](https://pan.baidu.com/s/1mj2plMC) `密码: 2x30`
 - [《高级计量经济学及Stata应用（第二版）》,陈强,高等教育出版社,2014](https://pan.baidu.com/s/1qlqdwFUds9hkTZUr0Hkm6g) `密码: 2yh2` <img src="https://img.shields.io/badge/Stata-12.0-E10098.svg" ></img>  
-    - [💿PPT&数据](https://pan.baidu.com/s/1sZWJivp_x9I98glIrMF3Ig) `密码: re9a` 
+    - [ 💿 PPT&数据](https://pan.baidu.com/s/1sZWJivp_x9I98glIrMF3Ig) `密码: re9a` 
     - [部分习题参考答案](https://pan.baidu.com/s/1wdWAN3wDsxFSxoXyFoMCFQ?pwd=8888)
 - [《Stata统计分析与行业应用案例详解》,张甜编著,清华大学出版社,2014](https://pan.baidu.com/s/1dgoVBS) `密码: 4gkr`<img src="https://img.shields.io/badge/Stata-9.0~12.0-E10098.svg" ></img>
-    - [💿光盘（内含Stata教学视频&示例数据）](https://pan.baidu.com/s/1c3vdWnm) `密码: cuwn`
+    - [ 💿 光盘（内含Stata教学视频&示例数据）](https://pan.baidu.com/s/1c3vdWnm) `密码: cuwn`
 - [《高级计量经济学及Stata应用》,陈强,高等教育出版社,2010](https://pan.baidu.com/s/1qZrrGHu) `密码: c260` <img src="https://img.shields.io/badge/Stata-10.0-E10098.svg" ></img>  
 - [《Stata统计分析与应用》,周广肃、梁荣、田金秀等编著,机械工业出版社,2015](https://pan.baidu.com/s/1oAqWdtC) `密码: 483g`<img src="https://img.shields.io/badge/Stata-10.0-E10098.svg" ></img>
-    - [💿光盘](https://pan.baidu.com/s/1eloSQM) `密码: ascc`
+    - [ 💿 光盘](https://pan.baidu.com/s/1eloSQM) `密码: ascc`
 - [《随机模拟与金融数据处理Stata教程》,李春涛，张璇,中国金融出版社,2009](https://pan.baidu.com/s/1miVLlwc) `密码: cspm` <img src="https://img.shields.io/badge/Stata-10.0-E10098.svg" ></img>
 - [《计量分析与STATA应用》,连玉君,中山大学岭南学院](https://pan.baidu.com/s/1kGa0exZacmHPJ-85qMcSBA) `密码: 2fk7` <img src="https://img.shields.io/badge/Stata-8.0~10.0-E10098.svg" ></img>
 - [《Stata统计分析教材（人大十八讲）》,陈传波,中国人民大学](https://pan.baidu.com/s/1kW7aVJL) `密码: 7nfs`<img src="https://img.shields.io/badge/Stata-9.2-E10098.svg" ></img>
 - [《用Stata学计量经济学》,克里斯托弗·F·鲍姆,中国人民大学出版社,2012](https://pan.baidu.com/s/1Kmcc4o6KCZwn0FOMM3zPnQ) `密码: ub94`<img src="https://img.shields.io/badge/Stata-9.2-E10098.svg" ></img>  
 - [《Stata简明讲义》,王非,中国经济研究中心](https://pan.baidu.com/s/1dHaZxTn) `密码: j35b` <img src="https://img.shields.io/badge/Stata-9.1-E10098.svg" ></img>
 - [《社会统计分析与数据处理技术:STATA软件的应用》,杨菊华编著、梁荣、田金秀等编著,中国人民大学出版社,2008](https://pan.baidu.com/s/1sm8QBJv) `密码: k94m` <img src="https://img.shields.io/badge/Stata-9.0-E10098.svg" ></img>   
-    - [💿光盘(含1989-2006年CHNS数据&复习思考题数据及答案程序&正文数据及数据处理程序)](https://pan.baidu.com/s/1smVlqUh) `密码: 3zmk`
+    - [ 💿 光盘(含1989-2006年CHNS数据&复习思考题数据及答案程序&正文数据及数据处理程序)](https://pan.baidu.com/s/1smVlqUh) `密码: 3zmk`
 - [《计量经济学导论》,杰弗里·M·伍德里奇,中国人民大学出版社,2015](https://pan.baidu.com/s/1nwG0uuP) `密码: yxee` <img src="https://img.shields.io/badge/Stata-9.0-E10098.svg" ></img>
 - [《Stata统计分析与应用》,张鹏伟,李嫣怡著,电子工业出版社, 2011](https://pan.baidu.com/s/1kWDM6W3)  `密码: vccc`  
 - 《Stata统计分析与应用.修订版》,胡博编著,电子工业出版社,2013  
-    - [💿光盘](https://pan.baidu.com/s/1i6YPwrj) `密码: diz1`  
+    - [ 💿 光盘](https://pan.baidu.com/s/1i6YPwrj) `密码: diz1`  
 - [《应用Stata做统计分析》,劳伦斯·汉密尔顿,重庆大学出版社,2008](https://pan.baidu.com/s/1qZJccG0) `密码:pole ` <img src="https://img.shields.io/badge/Stata-8.0-E10098.svg" ></img>  
-    - [💿数据](https://pan.baidu.com/s/1pMYDhZ9) `密码:kyt1 `  
+    - [ 💿 数据](https://pan.baidu.com/s/1pMYDhZ9) `密码:kyt1 `  
 - [《现代医学统计方法与Stata应用》,陈峰,中国统计出版社,1999](https://pan.baidu.com/s/1i64xmXB) `密码: lh8b` <img src="https://img.shields.io/badge/Stata-7.0-E10098.svg" ></img>  
 - [《STATA实用教程》,王天夫，李博柏,中国人民大学出版社,2008](https://pan.baidu.com/s/1jJoMfSq) `密码: j2so` 	 
 - [《Stata与LaTeX的完美结合》,连玉君,中山大学岭南学院](https://pan.baidu.com/s/1mjfU9pI) `密码: op0n`
@@ -358,40 +363,11 @@
 
 ---
 
-## 💝 支持项目
-
-<div align="center">
-
-### 🤲 鼓励支持
-
-**收集、整理、维护这些资源需要大量的时间和精力**
-
-如果这个项目对您的学习或研究有帮助，欢迎通过以下方式支持作者继续更新：
-
-| **支付宝** | **微信** |
-|---------|--------|
-| <img src="./Images/alipay.png" width="200" alt="支付宝收款码"> | <img src="./Images/wepay.png" width="200" alt="微信收款码"> |
-
-💰 **您的每一份支持都是我持续更新的动力！** 💰
-
-</div>
-
----
-
 ## ❤️ 致谢
 
-感谢所有为这个项目做出贡献的朋友们！特别感谢那些通过打赏支持项目持续发展的朋友们！
-
-**您的支持让我有动力继续收集、整理和分享更多优质的经济学资源！**
+感谢所有为这个项目做出贡献的朋友们！
 
 ---
 
 ## ⭐ 项目动态
 [![Star History Chart](https://api.star-history.com/svg?repos=zuster/EconometricsResources&type=date&legend=bottom-right)](https://www.star-history.com/#zuster/EconometricsResources&type=date&legend=bottom-right)
-
----
-<div align="center">
-
-**如果这个项目对你有帮助，请给一个 ⭐ Star 支持！**
-
-</div>
