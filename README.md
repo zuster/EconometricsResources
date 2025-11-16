@@ -1,5 +1,5 @@
 <h1  align="center">📊 EconometricsResources/经济学资料集</h1>
-<p align="center"> `科学`是对狂热和狂言最好的解毒剂。——亚当·斯密<br> 一个人必须经过一番刻苦`奋斗`，才会有所成就。——安徒生</p>
+<p align="center"> **科学**是对狂热和狂言最好的解毒剂。——亚当·斯密<br> 一个人必须经过一番刻苦`奋斗`，才会有所成就。——安徒生</p>
 <p align="center"><img src="https://img.shields.io/badge/本项目中所有内容均来自网络，如涉及版权和付费问题，随时联系作者删除-FF0000.svg"></img></p>  
 <p align="center"><img src="https://img.shields.io/badge/下载试读后请及时删除并购买正版-FF0000.svg"></img></p> 
 
@@ -78,6 +78,7 @@
 ### 🌐 综合西方经济学
 - [《西方经济学（第二版）上册》.《西方经济学》编写组.马克思主义理论研究和建设工程重点教材.高等教育出版社.2019.9](https://pan.baidu.com/s/1afvrkUPhzs2Qv07UXsC0xQ) `密码:ncfg`
 - [《西方经济学（第二版）下册》.《西方经济学》编写组.马克思主义理论研究和建设工程重点教材.高等教育出版社.2019.9](https://pan.baidu.com/s/1bkF-rB6QdrMLIeRRhYF0zA) `密码:jc8v`
+    - [《西方经济学》马克思主义理论研究和建设工程重点教材-课件](Courseware/《西方经济学》马克思主义理论研究和建设工程重点教材-课件/README.md)
     - 📁 [马工程《西方经济学》资料集（各类版本书籍&笔记&考研真题&题库&模拟试题）](https://pan.baidu.com/s/1jChHXIgx0OYlRkdoT-5yyg) `密码:8888`
 - [《西方经济学（第二版）习题与解答》吴汉洪主编,高等教育出版社,2020.6](https://pan.baidu.com/s/1im5lHexMtIfRqJBCBFmvpw) `密码:8888`
 - [《西方经济学简明教程（第9版）》尹伯成 刘江会主编,格致出版社:上海人民出版社,2018.2](https://pan.baidu.com/s/12mwDrmoHyNAs8K5SjPWr8w) `密码:8888`
@@ -217,8 +218,8 @@
 
 ---
 
-## 💻 相关软件
-### 📊 [Stata](Soft/Stata.md)
+## 🛠️ 分析工具
+### 📊 [Stata资源](Soft/Stata.md)
 #### 🌏 官方资料
 -	[Stata官网](https://www.stata.com/)  
 -	[Stata官方文档](https://www.stata.com/features/documentation/)  
@@ -299,8 +300,23 @@
   - [Stata15 IC for Windows](https://pan.baidu.com/s/1yYFQU0_fo20mYrg2N--hDA)	`密码: 5iyx` 	  
     -	[安装指南](Stata15InstallGuide.md)
 
-### 🧮 [SPSS](Soft/Spss.md)
+### 🧮 [SPSS资源](Soft/Spss.md)
+#### 📚 学习书籍
+- [《SPSS统计分析基础教程》（第3版）张文彤编著.--北京:高等教育出版社,2017.4](https://pan.baidu.com/s/184Fki05OUYFEEj2R-tqvxw)`密码:8888`
+- [《SPSS统计分析高级教程》（第3版）张文彤，董伟编著.北京:高等教育出版社，2018.1](https://pan.baidu.com/s/1fM96VyFVs4kXj4U0AJf02A)`密码:8888`
+    - [张文彤SPSS系列书籍配套资源下载列表 教材配套PPT&书中案例数据文件&python插件等](https://mp.weixin.qq.com/s/Bxn7KT-CieaKrBJiThO3xw)
+- [《SPSS实战与统计思维》武松编著，-北京:清华大学出版社，2019](https://pan.baidu.com/s/182WYsfQdEf-XsYVjgvBGYQ)`密码:8888`
+- [《SPSS22.0统计分析从入门到精通》李昕，张明明编著，-北京:电子工业出版社，2015.3](https://pan.baidu.com/s/1gd16E0fnNZjLlgkNpajP8A)`密码:8888`
+- [《SPSS医学数据统计与分析》宗敏 徐君南编著，出版社，人民邮电出版社，2024.4](https://pan.baidu.com/s/1GMeqDVO9hvccZEByGSXZxw)`密码:8888`
+- [《SPSS 统计分析从入门到精通》（第4版）杨维忠，陈胜可，刘荣编著.北京:清华大学出版社，2019](https://pan.baidu.com/s/1SqwazO6lHtyfpNYp5USS6A)`密码:8888`
+
+#### ▶️ 视频教程
+- [B站 张文彤【SPSS统计分析教程：基础篇（2024版）】](https://www.bilibili.com/cheese/play/ss25845?bsource=link_copy) `收费`
+- [B站 张文彤【SPSS统计分析教程：高级篇（2024版）】](https://www.bilibili.com/cheese/play/ss25845?bsource=link_copy) `收费`
+
 #### 💿 软件安装
+- [ 📁 SPSS各版本软件](https://pan.baidu.com/s/1woaKsnW9zsHCeqRDT6ZPuQ) 
+
 - [SPSS20.0 for Windows](http://pan.baidu.com/s/1miwSHGs)	`密码: 7n02`   
 ```
 	安装指南：
@@ -316,10 +332,10 @@
 
 ### 🗃️ SAS
 #### 📚 学习书籍
-[《SAS统计分析与应用实例》刘荣编著,电子工业出版社,2013.10](https://pan.baidu.com/s/1l6r8vJkcd8HvoYBM1C0slw)`密码:8888`<img src="https://img.shields.io/badge/SAS-9.2-E10098.svg" ></img>  
-[《SAS9.2从入门到精通》杨池然 仲文明 周志勇 编著,电子工业出版社,2011.08](https://pan.baidu.com/s/1MxE7aA_e_J7nBNjGfarQig)`密码:8888`<img src="https://img.shields.io/badge/SAS-9.2-E10098.svg" ></img>  
-[《可视化分析与SAS实现》朱继辉 刘政 窦运涛 邱威编著,机械工业出版社](https://pan.baidu.com/s/1rrMrAw3nJ7Ej3DFdl9lgbg)`密码:8888`  
-[《医学统计学及SAS应用（修订版）》王炳顺主编,上海交通大学出版社,2009](https://pan.baidu.com/s/1raFLs-MeSWq22_txy8bZRQ)`密码:8888`
+- [《SAS统计分析与应用实例》刘荣编著,电子工业出版社,2013.10](https://pan.baidu.com/s/1l6r8vJkcd8HvoYBM1C0slw)`密码:8888`<img src="https://img.shields.io/badge/SAS-9.2-E10098.svg" ></img>  
+- [《SAS9.2从入门到精通》杨池然 仲文明 周志勇 编著,电子工业出版社,2011.08](https://pan.baidu.com/s/1MxE7aA_e_J7nBNjGfarQig)`密码:8888`<img src="https://img.shields.io/badge/SAS-9.2-E10098.svg" ></img>  
+- [《可视化分析与SAS实现》朱继辉 刘政 窦运涛 邱威编著,机械工业出版社](https://pan.baidu.com/s/1rrMrAw3nJ7Ej3DFdl9lgbg)`密码:8888`  
+- [《医学统计学及SAS应用（修订版）》王炳顺主编,上海交通大学出版社,2009](https://pan.baidu.com/s/1raFLs-MeSWq22_txy8bZRQ)`密码:8888`
 
 ### 🗃️ MATLEB
 
@@ -342,7 +358,7 @@
 7. [【中国经济专题】徐高 -《宏观经济学二十五讲：中国视角》——北大国发院课程](https://www.bilibili.com/video/av70557114/)
 
 ## 📎  其他资料
-1. [《西方经济学》马克思主义理论研究和建设工程重点教材-课件](Courseware/《西方经济学》马克思主义理论研究和建设工程重点教材-课件/README.md)
+
 2. [曼昆《宏观经济学（第9版）》笔记和课后习题详解](https://pan.baidu.com/s/1hrrm-63NwfklLplF-TiwCQ) `提取码: ki6t`
 3. [《曼昆<宏观经济学>（第5版）课后习题详解》,上海恩波学校、翔高教育经济学研究中心编著,复旦大学出版社,2007](https://pan.baidu.com/s/1qmvg_99qzMN7uwaKu70_Xg) `密码:pj8l`  
 4. [《威廉森<宏观经济学>（第5版）笔记和课后习题详解》](https://pan.baidu.com/s/1k8wTY4cMP6J9BPKKvE6log) `密码:hgsu`
