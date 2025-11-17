@@ -432,7 +432,22 @@
 **免费开源的统计计算环境**
 -   **特点**：包生态系统丰富，绘图功能强大，社区活跃
 -   **适用**：数据挖掘、统计建模、可视化分析
-// todo
+
+#### 📚 学习书籍
+
+-   [《R语言科研绘图与学术图表绘制 从入门到精通》关东升编著,北京大学出版社,2024](https://pan.baidu.com/s/17ng4zLo53YvO-RCqLTlXFQ) `密码:8888`
+-   [《科研论文配图绘制指南:基于R语言》宁海涛著,人民邮电出版社,2024](https://pan.baidu.com/s/1qhoO9zwjcXfH6XCAii9Ijw) `密码:8888`
+-   [《R语言实战》（第3版）(美)罗伯特·I.卡巴科弗著;王韬译.北京:人民邮电出版社,2023.5](https://pan.baidu.com/s/1wC-lz_w6odVrPtmg6pRFNA) `密码:8888`
+-   [《R语言编程:基于tidyverse》张敬信著,人民邮电出版社有限公司,2023](https://pan.baidu.com/s/1L7LmpoblR09bcGtZ-6nF-w) `密码:8888`
+-   [《R语言数据分析从入门到实战》李仁钟著,清华大学出版社,2021](https://pan.baidu.com/s/1hrKA3Rtqiv1sbKSEv6H-1g) `密码:8888`
+-   [《R语言数据分析与可视化从入门到精通》程乾 刘永 高博 编著,北京大学出版社,2020](https://pan.baidu.com/s/13b7IjLdpcz9gSoswUkP5tw) `密码:8888`
+-   [《R语言数据可视化实战》米霖著,机械工业出版社,2020](https://pan.baidu.com/s/1Ing9SSSE1ucJtFcIfnImxA) `密码:8888`
+-   [《R语言统计分析与机器学习:微课视频版》薛震,孙玉林著.北京:中国水利水电出版社,2020.2](https://pan.baidu.com/s/1OCKfonaVfz-nOrltJXR_Pw) `密码:8888`
+
+-   [《R语言数据分析项目精解:理论、方法、实战》罗荣锦著,电子工业出版社,2017](https://pan.baidu.com/s/1TAas5TZsoH_3gSNQcu7N1Q) `密码:8888`
+-   [《R语言：迈向大数据之路》洪锦魁 蔡桂宏编著,清华大学出版社,2016](https://pan.baidu.com/s/1S0hHNFARXgAHSphDjH76zw) `密码:8888`00
+-   [《R语言预测实战》游皓麟著,电子工业出版社,2016](https://pan.baidu.com/s/1cdhBk-CbTnOGkcfUM4wC4g) `密码:8888`
+-   [《数据挖掘与R语言》[葡]托尔戈（Torgo，L.）著,李洪成等译,机械工业出版社,2013](https://pan.baidu.com/s/1eQQ53eE9RcCYnU6AAm9N5w) `密码:8888`
 
 ### 🕐 Eviews
 **专业的时间序列分析与预测软件**
