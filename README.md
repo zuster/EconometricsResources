@@ -1,7 +1,5 @@
 <h1  align="center">📊 EconometricsResources/经济学资料集</h1>
 <p align="center"> <b>科学</b>是对狂热和狂言最好的解毒剂。——亚当·斯密<br> 一个人必须经过一番刻苦<b>奋斗</b>，才会有所成就。——安徒生</p>
-<p align="center"><img src="https://img.shields.io/badge/版权声明-本项目中所有内容均来自网络，如涉及版权和付费问题，随时联系作者删除-FF0000.svg"></img></p>  
-<p align="center"><img src="https://img.shields.io/badge/使用建议-下载试读后请及时删除并购买正版-FF0000.svg"></img></p> 
 
 ## 📚 项目概述
 
@@ -13,7 +11,19 @@
 - **🛠️ 分析工具** - 统计软件教程和应用指南
 - **🎓 学习资源** - 考研材料、视频课程、读书笔记
 
-> 💡 **温馨提示**：项目持续更新中，欢迎通过 <zuster@sina.cn> 联系作者提供建议或分享资源。
+---
+
+## ⚠️ 重要声明
+
+<div class="warning" style="background: #fff3cd; border: 1px solid #ffeaa7; border-radius: 5px; padding: 15px; margin: 20px 0;">
+
+🚨 **版权提醒**：本项目中所有资源均来自网络收集，仅限学习交流使用。如涉及版权问题，请及时联系作者删除。
+
+🚨 **支持正版**：建议下载试读后购买正版教材，支持作者和出版社的辛勤劳动。
+
+📧 **联系方式**：如有任何问题或建议，请通过 <zuster@sina.cn> 联系作者。
+
+</div>
 
 ---
 
@@ -439,20 +449,6 @@
 5. [可汗学院公开课：货币银行学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2FKhan%2Fbankingandmoney.html)
 6. [十分钟看懂金融危机 次贷危机 房价](http://www.iqiyi.com/w_19rre7gwe9.html)  
 7. [【中国经济专题】徐高 -《宏观经济学二十五讲：中国视角》——北大国发院课程](https://www.bilibili.com/video/av70557114/)
-
----
-
-## ⚠️ 重要声明
-
-<div class="warning" style="background: #fff3cd; border: 1px solid #ffeaa7; border-radius: 5px; padding: 15px; margin: 20px 0;">
-
-🚨 **版权提醒**：本项目中所有资源均来自网络收集，仅限学习交流使用。如涉及版权问题，请及时联系作者删除。
-
-🚨 **支持正版**：建议下载试读后购买正版教材，支持作者和出版社的辛勤劳动。
-
-📧 **联系方式**：如有任何问题或建议，请通过 <zuster@sina.cn> 联系作者。
-
-</div>
 
 ---
 
