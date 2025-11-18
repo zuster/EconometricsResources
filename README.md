@@ -375,8 +375,6 @@
 -   [《问卷统计分析实务--SPSS操作与应用》吴明隆著.重庆:重庆大学出版社,2010.5](https://pan.baidu.com/s/1zjJnZflzK2NmmUpGLltSvw)`密码:8888`
 -   [《问卷调查及统计分析方法:基于SPSS》朱红兵编著，北京:电子工业出版社，2019.5](https://pan.baidu.com/s/1nf6mrlYeP5R7FIXFdXNRQQ)`密码:8888`
 -   [《教育统计学与SPSS》范晓玲编著，一长沙:湖南师范大学出版社,2005.8](https://pan.baidu.com/s/1NzXHE71ktGZWUZteIoGlww)`密码:8888`
--   []()`密码:8888`
--   []()`密码:8888`
 
 
 #### ▶️ 视频教程
@@ -458,7 +456,16 @@
 **专业的时间序列分析与预测软件**
 -   **特点**：界面友好，专为时间序列设计，金融计量应用广泛
 -   **适用**：单位根检验、ARIMA模型、向量自回归、宏观经济预测
-// todo
+
+#### 📚 学习书籍
+
+-   [《EViews 分析与应用》王爱民编著，北京大学出版社，2018.5](https://pan.baidu.com/s/1Xvf35q0g7dyOwGhQ8ODb3g) `密码:8888`
+-   [《EViews 统计分析与应用》（修订本）李嫣怡等编著，电子工业出版社，2013.4](https://pan.baidu.com/s/1-8hyerH7GZ9fLVf1vYXk0A) `密码:8888`
+-   [《数据分析与 EViews 应用》易丹辉编著，中国统计出版社，2002.10](https://pan.baidu.com/s/1ule5esLU8gAK005bBANThw) `密码:8888`
+
+#### 🎥 学习视频
+-   [何晓琦博士 - 【EViews13精讲--数据分析入门到精通】](https://www.bilibili.com/video/BV1zw4m1k7Jg/?share_source=copy_web&vd_source=01d552db2586a92c02c22053616b41f7)
+-   [【Eviews】Eviews学习视频](https://www.bilibili.com/video/BV1Hz4y1f77T/?share_source=copy_web&vd_source=01d552db2586a92c02c22053616b41f7)
 
 ## 🎥 学习视频
 
