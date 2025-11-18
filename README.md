@@ -275,6 +275,7 @@
 ## 🛠️ 分析工具
 
 ### 📊 [Stata](Soft/Stata.md)
+
 **经济学实证分析的首选工具**
 -   **特点**：菜单驱动，易于上手，适合问卷分析
 -   **适用**：描述性统计、方差分析、因子分析
@@ -335,7 +336,8 @@
 -   [《Discovering Structural Equation Modeling Using Stata》,A Acock](http://pan.baidu.com/s/1hsondUO)	`密码: abhm`  
 
 #### ▶️ 视频教程
--   [【连玉君stata初级+高级班】【 论文班视频+讲义+数据全套 】](https://pan.baidu.com/s/18npi5Ca7j26-T-TDwQA9_w) 	`密码: unvu` 	    
+-   [B站](https://search.bilibili.com/all?keyword=STATS) 
+-   [【连玉君stata初级+高级班】【 论文班视频+讲义+数据全套 】](https://pan.baidu.com/s/18npi5Ca7j26-T-TDwQA9_w) 	`密码: unvu` 	   
 -   [【丁香园】【Stata做meta】](https://pan.baidu.com/s/1ymHidLA8AszzWyo9BcK8rg)	`密码: x2mb` 	    
 -   [【南开大学数量经济研究所 王群勇】【Stata应用高级培训教程】【含PPT+数据】](https://pan.baidu.com/s/15N_bDBkrzNXBsnh5TJ9yIQ)	`密码:ik5r ` 	    
 
@@ -360,6 +362,7 @@
     -	[安装指南](Stata15InstallGuide.md)
 
 ### 🧮 [SPSS资源](Soft/Spss.md)
+
 **社会科学统计分析的主流工具**
 -   **特点**：菜单驱动，易于上手，适合问卷分析
 -   **适用**：描述性统计、方差分析、因子分析
@@ -376,10 +379,10 @@
 -   [《问卷调查及统计分析方法:基于SPSS》朱红兵编著，北京:电子工业出版社，2019.5](https://pan.baidu.com/s/1nf6mrlYeP5R7FIXFdXNRQQ)`密码:8888`
 -   [《教育统计学与SPSS》范晓玲编著，一长沙:湖南师范大学出版社,2005.8](https://pan.baidu.com/s/1NzXHE71ktGZWUZteIoGlww)`密码:8888`
 
-
 #### ▶️ 视频教程
 -   [B站 张文彤【SPSS统计分析教程：基础篇（2024版）】](https://www.bilibili.com/cheese/play/ss25845?bsource=link_copy) `收费`
 -   [B站 张文彤【SPSS统计分析教程：高级篇（2024版）】](https://www.bilibili.com/cheese/play/ss25845?bsource=link_copy) `收费`
+-   [B站](https://search.bilibili.com/all?keyword=SPSS) 
 
 #### 💿 软件安装
 -   [ 📁 SPSS各版本软件](https://pan.baidu.com/s/1woaKsnW9zsHCeqRDT6ZPuQ) 
@@ -398,6 +401,7 @@
 - SPSS For Mac: 在 http://xclient.info/ 网站搜索 SPSS，安装和破解方法参考网站提示。
 
 ### 💼 SAS
+
 **企业级数据分析解决方案**
 -   **特点**：稳定可靠，处理大数据能力强，行业标准
 -   **适用**：金融风控、商业智能、医药统计
@@ -408,7 +412,11 @@
 -   [《可视化分析与SAS实现》朱继辉 刘政 窦运涛 邱威编著,机械工业出版社](https://pan.baidu.com/s/1rrMrAw3nJ7Ej3DFdl9lgbg)`密码:8888`  
 -   [《医学统计学及SAS应用（修订版）》王炳顺主编,上海交通大学出版社,2009](https://pan.baidu.com/s/1raFLs-MeSWq22_txy8bZRQ)`密码:8888`
 
+#### ▶️ 视频教程
+-   [B站](https://search.bilibili.com/all?keyword=SAS) 
+
 ### 🕸️ [图论](Soft/GraphTheory.md)
+
 **网络分析与优化建模**
 -   **特点**：研究对象间关系，解决路径优化问题
 -   **适用**：社交网络分析、交通规划、供应链优化
@@ -417,16 +425,35 @@
 -   [《图论算法及其MATLAB实现》王海英等著,北京航空航天大学出版社,2010.2](https://pan.baidu.com/s/1j3wigh_K9ZSlKLtckZyOjA) `密码:shpv`
     -   [随书代码](./GraphTheory/图论算法及其MATLAB实现)
 -   [《图论在经济学中的应用（Basic Graph Theory with Applications to Economic）》](https://pan.baidu.com/s/17_P-2VxZgtbxft8v_9wDVQ) `密码:r8cg`
+
 #### 💿 相关软件
 [下载地址](https://pan.baidu.com/s/13fBj6k-9DXyZjPM5NrDTrw)  提取码: 8slm
 
+#### ▶️ 视频教程
+-   [B站](https://search.bilibili.com/all?keyword=图论) 
+
 ### 🔢 MATLEB
+
 **强大的数值计算和工程仿真**
 -   **特点**：矩阵操作强大，编程灵活，可视化优秀
 -   **适用**：数值模拟、算法开发、信号处理
-// todo
+
+#### 📚 学习书籍
+-   [《机器学习入门到实战-- MATLAB 实践应用》冷雨泉 张会文 张伟著，清华大学出版社，2019](https://pan.baidu.com/s/1X5DAnJIhOZFowt7AIm1Etw) `密码:8888`
+-   [《详解 MATLAB 快速入门与应用》袁东肖著，广兵出版社:电子工业出版社，2011](https://pan.baidu.com/s/1a-ttTTOn6_jUCG2JrShkRg) `密码:8888`
+-   [《基于 MATLAB 与 FPGA 的图像处理教程》韩彬 林海全 姜宇奇著，电子工业出版社，2023](https://pan.baidu.com/s/1eEESIYs3G0Dbjn5YGx63GA) `密码:8888`
+-   [《MATLAB 2020 数学计算从入门到精通》林凤涛 槐创锋 杨世德著，机械工业出版社，2021](https://pan.baidu.com/s/1PU4xF8WgqDpIIW8RBQ9MJg) `密码:8888`
+-   [《MATLAB 2020 GUI程序设计从入门到精通》黄熹 李星新著，机械工业出版社，2021](https://pan.baidu.com/s/1D0rtlKL3MDhb75Qaux7yJw) `密码:8888`
+-   [《MATLAB 2020 智能算法从入门到精通》甘勤涛 彭舒 吴芳著，机械工业出版社，2022](https://pan.baidu.com/s/1aW3mU4ocHHsWxJ9FZDGnEw) `密码:8888`
+-   [《图论算法及其 MATLAB 实现》王海英等编著，北京北京航空航天大学出版社，2010.2](https://pan.baidu.com/s/1ZbkCDgHLJGk1j6UEHjvZAg) `密码:8888`
+-   [当当](https://search.dangdang.com/?key=matlab) 
+-   [京东](https://search.jd.com/Search?keyword=MATLAB) 
+
+#### ▶️ 视频教程
+-   [B站](https://search.bilibili.com/all?keyword=matlab) 
 
 ### 📉 R语言
+
 **免费开源的统计计算环境**
 -   **特点**：包生态系统丰富，绘图功能强大，社区活跃
 -   **适用**：数据挖掘、统计建模、可视化分析
@@ -447,9 +474,8 @@
 -   [《R语言预测实战》游皓麟著,电子工业出版社,2016](https://pan.baidu.com/s/1cdhBk-CbTnOGkcfUM4wC4g) `密码:8888`
 -   [《数据挖掘与R语言》[葡]托尔戈（Torgo，L.）著,李洪成等译,机械工业出版社,2013](https://pan.baidu.com/s/1eQQ53eE9RcCYnU6AAm9N5w) `密码:8888`
 
-#### 🎥 学习视频
-
-**B站很多**
+#### ▶️ 视频教程
+-   [B站](https://search.bilibili.com/all?keyword=R语言) 
 
 
 ### 🕐 Eviews
@@ -463,19 +489,19 @@
 -   [《EViews 统计分析与应用》（修订本）李嫣怡等编著，电子工业出版社，2013.4](https://pan.baidu.com/s/1-8hyerH7GZ9fLVf1vYXk0A) `密码:8888`
 -   [《数据分析与 EViews 应用》易丹辉编著，中国统计出版社，2002.10](https://pan.baidu.com/s/1ule5esLU8gAK005bBANThw) `密码:8888`
 
-#### 🎥 学习视频
+#### ▶️ 视频教程
+-   [B站](https://search.bilibili.com/all?keyword=EViews) 
 -   [何晓琦博士 - 【EViews13精讲--数据分析入门到精通】](https://www.bilibili.com/video/BV1zw4m1k7Jg/?share_source=copy_web&vd_source=01d552db2586a92c02c22053616b41f7)
 -   [【Eviews】Eviews学习视频](https://www.bilibili.com/video/BV1Hz4y1f77T/?share_source=copy_web&vd_source=01d552db2586a92c02c22053616b41f7)
 
-## 🎥 学习视频
-
-1. [厦门大学公开课：高级计量经济学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fcuvocw%2Fxiadagaojijiliangjingji.html)
-2. [Crash Course--《速成经济学》](http://open.163.com/newview/movie/free?pid=MBGQ1VONR&mid=MBGQ259M4)
-3. [可汗学院公开课：微观经济学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2FKhan%2Fmicroeconomics.html)
-4. [可汗学院公开课：宏观经济学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2FKhan%2Fmacroeconomics.html)
-5. [可汗学院公开课：货币银行学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2FKhan%2Fbankingandmoney.html)
-6. [十分钟看懂金融危机 次贷危机 房价](http://www.iqiyi.com/w_19rre7gwe9.html)  
-7. [【中国经济专题】徐高 -《宏观经济学二十五讲：中国视角》——北大国发院课程](https://www.bilibili.com/video/av70557114/)
+#### ▶️ 视频教程
+-   [厦门大学公开课：高级计量经济学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fcuvocw%2Fxiadagaojijiliangjingji.html)
+-   [Crash Course--《速成经济学》](http://open.163.com/newview/movie/free?pid=MBGQ1VONR&mid=MBGQ259M4)
+-   [可汗学院公开课：微观经济学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2FKhan%2Fmicroeconomics.html)
+-   [可汗学院公开课：宏观经济学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2FKhan%2Fmacroeconomics.html)
+-   [可汗学院公开课：货币银行学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2FKhan%2Fbankingandmoney.html)
+-   [十分钟看懂金融危机 次贷危机 房价](http://www.iqiyi.com/w_19rre7gwe9.html)  
+-   [【中国经济专题】徐高 -《宏观经济学二十五讲：中国视角》——北大国发院课程](https://www.bilibili.com/video/av70557114/)
 
 ---
 
