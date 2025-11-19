@@ -164,7 +164,7 @@
 ---
 
 ## 📑 期刊
-### 中文核心期刊
+### 🇨🇳 中文核心期刊
 -   [《经济学报》 (China Journal of Economics)](https://tsjj.cbpt.cnki.net)
 -	[《经济研究》（Economic Research Journal）](https://erj.ajcass.com/#/index)  
 -	[《经济学》（季刊）](https://www.nsd.pku.edu.cn/cbw/jjxjk/index.htm)  
@@ -173,7 +173,7 @@
 -   [《财贸经济》（Finance & Trade Economics）](https://cmjj.ajcass.com/)
 -	[南京大学 | 中国社会科学研究评价中心](https://cssrac.nju.edu.cn/)
 -   [《经济学人》(The Economist)](https://www.economist.com/)
-### 国际顶级期刊
+### 🌍 国际顶级期刊
 -	[American Economic Review](https://www.aeaweb.org/journals/aer)
 -	[The Review of Economics and Statistics](https://www.mitpressjournals.org/loi/rest)  
 -	[The Quarterly Journal of Economics](https://academic.oup.com/qje)
